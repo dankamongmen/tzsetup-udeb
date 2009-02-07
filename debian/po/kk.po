@@ -3,100 +3,95 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of Debian Installer Level 1 - sublevel 1 to malayalam
-# Copyright (c)  2006-2009 Debian Project
-# Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2006-2009
-# Santhosh Thottingal <santhosh00@gmail.com>, 2006
-# Sreejith :: ശ്രീജിത്ത് കെ <sreejithk2000@gmail.com>,  2006
-# Credits:  V Sasi Kumar, Sreejith N, Seena N, Anivar Aravind, Hiran Venugopalan and Suresh P
+# Kazakh messages for debian-installer.
+# Copyright (C) 2003 Software in the Public Interest, Inc.
+# This file is distributed under the same license as debian-installer.
 #
-# Debian Installer master translation file template
-# Don't forget to properly fill-in the header of PO files
-# Debian Installer translators, please read the D-I i18n documentation
-# in doc/i18n/i18n.txt#
+# Talgat Daniyarov
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008, 2009
+# Dauren Sarsenov <daur88@inbox.ru>, 2008, 2009
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Debian Installer Level 1\n"
+"Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: debian-boot@lists.debian.org\n"
 "POT-Creation-Date: 2008-01-26 07:32+0000\n"
-"PO-Revision-Date: 2009-02-03 14:50-0800\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
-"Language-Team: Debian Malayalam <debian-l10n-malayalam@lists.debian.org>\n"
+"PO-Revision-Date: 2009-02-06 15:57+0600\n"
+"Last-Translator: daur88 <daur88@inbox.ru>\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "McMurdo"
-msgstr "മക്മര്‍ഡോ"
+msgstr "Мак-Мердо"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "south pole"
-msgstr "തെക്കന്‍ ധ്രുവം"
+msgstr "оңтүстік полюс"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Rothera"
-msgstr "റൊതേര"
+msgstr "Ротера"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Palmer"
-msgstr "പാമര്‍"
+msgstr "Палмер"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Mawson"
-msgstr "മാസണ്‍"
+msgstr "Моусон"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Davis"
-msgstr "ഡാവിസ്"
+msgstr "Дейвис"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Casey"
-msgstr "കാസീ"
+msgstr "Кейси"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Vostok"
-msgstr "വോസ്ടോക്"
+msgstr "Шығыс"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Dumont-d'Urville"
-msgstr "ഡുമൊണ്ട്-ഡി'ഉര്‍വില്ലെ"
+msgstr "Дюмон-д'Юрвиль"
 
 #. Type: select
 #. Choices
 #. Time zone for Antarctica
 #: ../common.templates:2001
 msgid "Syowa"
-msgstr "സിയോവ"
+msgstr "Сёва"
 
 #. Type: select
 #. Description
@@ -121,77 +116,77 @@ msgstr "സിയോവ"
 #: ../common.templates:17002 ../common.templates:18002
 #: ../common.templates:19002 ../common.templates:21002
 msgid "Select a location in your time zone:"
-msgstr "നിങ്ങളുടെ സമയ മേഘലയിലുള്ള ഒരു സ്ഥലം തെരഞ്ഞെടുക്കുക:"
+msgstr "Уақыт белдеуіндегі өзіңіздің орналасуыңызды көрсетіңіз:"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Lord Howe Island"
-msgstr "ലോര്‍ഡ് ഹോവ് ദ്വീപു്"
+msgstr "Лорд-Хау"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Hobart"
-msgstr "ഹോബാര്‍ട്ട്"
+msgstr "Хобарт"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Melbourne"
-msgstr "മെല്‍ബണ്‍"
+msgstr "Мельбурн"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Sydney"
-msgstr "സിഡ്നി"
+msgstr "Сидней"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Broken Hill"
-msgstr "ബ്രോക്കണ്‍ ഹില്‍"
+msgstr "Брокен-Хилл"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Brisbane"
-msgstr "ബ്രിസ്ബേന്‍"
+msgstr "Брисбен"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Lindeman"
-msgstr "ലിന്‍ഡെമാന്‍"
+msgstr "Линдеман"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Adelaide"
-msgstr "അഡലൈഡ്"
+msgstr "Аделаида"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Darwin"
-msgstr "ഡാര്‍വിന്‍"
+msgstr "Дарвин"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:3001
 msgid "Perth"
-msgstr "പെര്‍ത്ത്"
+msgstr "Перт"
 
 #. Type: select
 #. Description
@@ -209,126 +204,126 @@ msgstr "പെര്‍ത്ത്"
 #: ../common.templates:12002 ../common.templates:14002
 #: ../common.templates:15002
 msgid "Select a city in your time zone:"
-msgstr "നിങ്ങളുടെ സമയ മേഘലയിലെ പട്ടണം തെരഞ്ഞെടുക്കുക:"
+msgstr "Уақыт белдеуіңізге сай қала таңдаңыз:"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Noronha"
-msgstr "നൊരോഞ്ഞ"
+msgstr "Норона"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Belem"
-msgstr "ബെലം"
+msgstr "Белен"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Fortaleza"
-msgstr "ഫോര്‍ട്ടലേസ"
+msgstr "Форталеза"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Recife"
-msgstr "റെസിഫെ"
+msgstr "Ресифи"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Araguaina"
-msgstr "അരാഗ്വിയാന"
+msgstr "Арагуаина"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Maceio"
-msgstr "മസീയോ"
+msgstr "Масейо"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Bahia"
-msgstr "ബഹിയ"
+msgstr "Баия"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Sao Paulo"
-msgstr "സാവോ പോളോ"
+msgstr "Сан-Паулу"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Campo Grande"
-msgstr "കാമ്പോ ഗ്രണ്ടേ"
+msgstr "Кампу-Гранде"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Cuiaba"
-msgstr "ക്യുയിബ"
+msgstr "Куяба"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Porto Velho"
-msgstr "പോര്‍ട്ടോ വെല്ഹോ"
+msgstr "Порто-Велью"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Boa Vista"
-msgstr "ബോയ വിസ്റ്റ"
+msgstr "Боа-Виста"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Manaus"
-msgstr "മാനസ്"
+msgstr "Манаус"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Eirunepe"
-msgstr "യിരുനേപേ"
+msgstr "Эйрунепе"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:4001
 msgid "Rio Branco"
-msgstr "റിയോ ബ്രാങ്കോ"
+msgstr "Риу-Бранку"
 
 #. Type: select
 #. Choices
 #. Time zone for Canada
 #: ../common.templates:5001
 msgid "Newfoundland"
-msgstr "ന്യൂഫൌണ്ട്‌ലാന്‍ഡ്"
+msgstr "Ньюфаундленд"
 
 #. Type: select
 #. Choices
 #. Time zone for Canada
 #: ../common.templates:5001
 msgid "Atlantic"
-msgstr "അറ്റ്‌ലാന്റിക്"
+msgstr "Атлант мұхиты"
 
 #. Type: select
 #. Choices
@@ -338,7 +333,7 @@ msgstr "അറ്റ്‌ലാന്റിക്"
 #. Time zone for United States
 #: ../common.templates:5001 ../common.templates:22001
 msgid "Eastern"
-msgstr "കിഴക്കന്‍"
+msgstr "Шығыс"
 
 #. Type: select
 #. Choices
@@ -352,21 +347,21 @@ msgstr "കിഴക്കന്‍"
 #: ../common.templates:5001 ../common.templates:16001
 #: ../common.templates:22001
 msgid "Central"
-msgstr "മദ്ധ്യം"
+msgstr "Орталық"
 
 #. Type: select
 #. Choices
 #. Time zone for Canada
 #: ../common.templates:5001
 msgid "East Saskatchewan"
-msgstr "കിഴക്കന്‍ സസ്കാചെവാന്‍"
+msgstr "Шығыс Саскачеван"
 
 #. Type: select
 #. Choices
 #. Time zone for Canada
 #: ../common.templates:5001
 msgid "Saskatchewan"
-msgstr "സസ്കാചെവാന്‍"
+msgstr "Саскачеван"
 
 #. Type: select
 #. Choices
@@ -380,7 +375,7 @@ msgstr "സസ്കാചെവാന്‍"
 #: ../common.templates:5001 ../common.templates:16001
 #: ../common.templates:22001
 msgid "Mountain"
-msgstr "മൌണ്ടന്‍"
+msgstr "Таулар уақыты"
 
 #. Type: select
 #. Choices
@@ -394,14 +389,14 @@ msgstr "മൌണ്ടന്‍"
 #: ../common.templates:5001 ../common.templates:16001
 #: ../common.templates:22001
 msgid "Pacific"
-msgstr "പസഫിക്"
+msgstr "Тынық мұхиты"
 
 #. Type: select
 #. Choices
 #. Time zone for Canada
 #: ../common.templates:5001
 msgid "Yukon"
-msgstr "യുകോണ്‍"
+msgstr "Юкон"
 
 #. Type: select
 #. Description
@@ -419,441 +414,441 @@ msgstr "യുകോണ്‍"
 #: ../common.templates:16002 ../common.templates:20002
 #: ../common.templates:22002
 msgid "Select your time zone:"
-msgstr "നിങ്ങളുടെ സമയ മേഘല തെരഞ്ഞെടുക്കുക:"
+msgstr "Уақыт белдеуін таңдаңыз:"
 
 #. Type: select
 #. Choices
 #. Time zone for Congo, The Democratic Republic of the
 #: ../common.templates:6001
 msgid "Kinshasa"
-msgstr "കിന്‍ഷാസ"
+msgstr "Киншаса"
 
 #. Type: select
 #. Choices
 #. Time zone for Congo, The Democratic Republic of the
 #: ../common.templates:6001
 msgid "Lubumbashi"
-msgstr "ലുബുമ്പഷി"
+msgstr "Лубумбаши"
 
 #. Type: select
 #. Choices
 #. Time zone for Chile
 #: ../common.templates:7001
 msgid "Santiago"
-msgstr "സാന്റിയാഗോ"
+msgstr "Сантьяго"
 
 #. Type: select
 #. Choices
 #. Time zone for Chile
 #: ../common.templates:7001
 msgid "Easter Island"
-msgstr "ഈസ്റ്റര്‍"
+msgstr "Пасха аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for Ecuador
 #: ../common.templates:8001
 msgid "Guayaquil"
-msgstr "ഗുവായക്വില്‍"
+msgstr "Гуаякиль"
 
 #. Type: select
 #. Choices
 #. Time zone for Ecuador
 #: ../common.templates:8001
 msgid "Galapagos"
-msgstr "ഗാലപ്പഗോസ്"
+msgstr "Галапагос аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for Spain
 #: ../common.templates:9001
 msgid "Madrid"
-msgstr "മാഡ്രിഡ്"
+msgstr "Мадрид"
 
 #. Type: select
 #. Choices
 #. Time zone for Spain
 #: ../common.templates:9001
 msgid "Ceuta"
-msgstr "സ്യൂട"
+msgstr "Сеута"
 
 #. Type: select
 #. Choices
 #. Time zone for Spain
 #: ../common.templates:9001
 msgid "Canary Islands"
-msgstr "കാമറി ദ്വീപുകള്‍"
+msgstr "Канар аралдарыы"
 
 #. Type: select
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:10001
 msgid "Yap"
-msgstr "യാപ്"
+msgstr "Яп"
 
 #. Type: select
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:10001
 msgid "Truk"
-msgstr "ട്രക്"
+msgstr "Трук"
 
 #. Type: select
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:10001
 msgid "Ponape"
-msgstr "പൊനാപേ"
+msgstr "Понпей"
 
 #. Type: select
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:10001
 msgid "Kosrae"
-msgstr "കൊസ്രേ"
+msgstr "Кусаие"
 
 #. Type: select
 #. Choices
 #. Time zone for Greenland
 #: ../common.templates:11001
 msgid "Godthab"
-msgstr "ഗോഡ്താബ്"
+msgstr "Готхоб"
 
 #. Type: select
 #. Choices
 #. Time zone for Greenland
 #: ../common.templates:11001
 msgid "Danmarkshavn"
-msgstr "ഡന്മാര്‍ക്ഷാവന്‍"
+msgstr "Данмарксхавн"
 
 #. Type: select
 #. Choices
 #. Time zone for Greenland
 #: ../common.templates:11001
 msgid "Scoresbysund"
-msgstr "സ്കോര്‍സ്‌ബൈസണ്ട്"
+msgstr "Скорсбисунн"
 
 #. Type: select
 #. Choices
 #. Time zone for Greenland
 #: ../common.templates:11001
 msgid "Thule"
-msgstr "തുലെ"
+msgstr "Туле"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:12001
 msgid "Jakarta"
-msgstr "ജക്കാര്‍ത്ത"
+msgstr "Джакарта"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:12001
 msgid "Pontianak"
-msgstr "പോണ്ടിയാനക്"
+msgstr "Понтианак"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:12001
 msgid "Makassar"
-msgstr "മകസ്സര്‍"
+msgstr "Макассар"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:12001
 msgid "Jayapura"
-msgstr "ജയപുര"
+msgstr "Джаяпура"
 
 #. Type: select
 #. Choices
 #. Time zone for Kiribati
 #: ../common.templates:13001
 msgid "Tarawa (Gilbert Islands)"
-msgstr "തരാവ (ഗില്‍ബര്‍ട്ട് ദ്വീപുകള്‍)"
+msgstr "Тарава"
 
 #. Type: select
 #. Choices
 #. Time zone for Kiribati
 #: ../common.templates:13001
 msgid "Enderbury (Phoenix Islands)"
-msgstr "എന്‍ഡെര്‍ബറി (ഫീനിക്സ് ദ്വീപുകള്‍)"
+msgstr "Эндербери"
 
 #. Type: select
 #. Choices
 #. Time zone for Kiribati
 #: ../common.templates:13001
 msgid "Kiritimati (Line Islands)"
-msgstr "ക്രിതിമാതി (ലൈന്‍ ദ്വീപുകള്‍)"
+msgstr "Киритимати"
 
 #. Type: select
 #. Choices
 #. Time zone for Kazakhstan
 #: ../common.templates:14001
 msgid "Almaty"
-msgstr "അല്മാട്ടി"
+msgstr "Алматы"
 
 #. Type: select
 #. Choices
 #. Time zone for Kazakhstan
 #: ../common.templates:14001
 msgid "Qyzylorda"
-msgstr "ക്വിസിലോര്‍ഡ"
+msgstr "Қызылорда"
 
 #. Type: select
 #. Choices
 #. Time zone for Kazakhstan
 #: ../common.templates:14001
 msgid "Aqtobe"
-msgstr "അക്ടൊബെ"
+msgstr "Ақтөбе"
 
 #. Type: select
 #. Choices
 #. Time zone for Kazakhstan
 #: ../common.templates:14001
 msgid "Atyrau"
-msgstr "അടിരവു"
+msgstr "Атырау"
 
 #. Type: select
 #. Choices
 #. Time zone for Kazakhstan
 #: ../common.templates:14001
 msgid "Oral"
-msgstr "ഒരള്‍"
+msgstr "Орал"
 
 #. Type: select
 #. Choices
 #. Time zone for Mongolia
 #: ../common.templates:15001
 msgid "Ulaanbaatar"
-msgstr "ഉലാന്‍ബാത്തര്‍"
+msgstr "Улан-Батор"
 
 #. Type: select
 #. Choices
 #. Time zone for Mongolia
 #: ../common.templates:15001
 msgid "Hovd"
-msgstr "ഹോവ്ഡ്"
+msgstr "Ховд"
 
 #. Type: select
 #. Choices
 #. Time zone for Mongolia
 #: ../common.templates:15001
 msgid "Choibalsan"
-msgstr "ചൊയിബല്‍സാന്‍"
+msgstr "Чойбалсан"
 
 #. Type: select
 #. Choices
 #. Time zone for New Zealand
 #: ../common.templates:17001
 msgid "Auckland"
-msgstr "ഓക്‌ലന്റ്"
+msgstr "Окленд"
 
 #. Type: select
 #. Choices
 #. Time zone for New Zealand
 #: ../common.templates:17001
 msgid "Chatham Islands"
-msgstr "ചാതം ദ്വീപുകള്‍"
+msgstr "Чатем"
 
 #. Type: select
 #. Choices
 #. Time zone for French Polynesia
 #: ../common.templates:18001
 msgid "Tahiti (Society Islands)"
-msgstr "താഹിതി (സമൂഹ ദ്വീപുകള്‍)"
+msgstr "Таити аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for French Polynesia
 #: ../common.templates:18001
 msgid "Marquesas Islands"
-msgstr "മാര്‍‌ക്വേസാസ് ദ്വീപുകള്‍"
+msgstr "Маркиз аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for French Polynesia
 #: ../common.templates:18001
 msgid "Gambier Islands"
-msgstr "ഗാമ്പിയര്‍ ദ്വീപുകള്‍"
+msgstr "Гамбье аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for Portugal
 #: ../common.templates:19001
 msgid "Lisbon"
-msgstr "ലിസ്ബണ്‍"
+msgstr "Лиссабон"
 
 #. Type: select
 #. Choices
 #. Time zone for Portugal
 #: ../common.templates:19001
 msgid "Madeira Islands"
-msgstr "മഡൈര ദ്വീപുകള്‍"
+msgstr "Мадейра"
 
 #. Type: select
 #. Choices
 #. Time zone for Portugal
 #: ../common.templates:19001
 msgid "Azores"
-msgstr "അസോറെസ്"
+msgstr "Азор аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow-01 - Kaliningrad"
-msgstr "മോസ്കോ-01 - കലിനിന്‍ഗ്രാഡ്"
+msgstr "Калининград"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+00 - west Russia"
-msgstr "മോസ്കോ+00 - പടിഞ്ഞാറെ റഷ്യ"
+msgstr "Мәскеу"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+01 - Samara"
-msgstr "മോസ്കോ+01 - സമാറ"
+msgstr "Самара"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+02 - Urals"
-msgstr "മോസ്കോ+02 - ഉരല്‍സ്"
+msgstr "Екатеринбург"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+03 - west Siberia"
-msgstr "മോസ്കോ+03 - പടിഞ്ഞാറെ സൈബീരിയ"
+msgstr "Омбы"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+03 - Novosibirsk"
-msgstr "മോസ്കോ+03 - നൊവോസിബിര്‍സ്ക്"
+msgstr "Новосибирск"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+04 - Yenisei River"
-msgstr "മോസ്കോ+04 - യെനിസെയ് നദി"
+msgstr "Красноярск"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+05 - Lake Baikal"
-msgstr "മോസ്കോ+05 - ബൈക്കല്‍ തടാകം"
+msgstr "Иркутск"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+06 - Lena River"
-msgstr "മോസ്കോ+06 - ലേനാ നദി"
+msgstr "Якутск"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+07 - Amur River"
-msgstr "മോസ്കോ+07 - അമുര്‍ നദി"
+msgstr "Владивосток"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+07 - Sakhalin Island"
-msgstr "മോസ്കോ+07 - സഖാലിന്‍ ദ്വീപു്"
+msgstr "Сахалин аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+08 - Magadan"
-msgstr "മോസ്കോ+08 - മഗദാന്‍"
+msgstr "Магадан"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+09 - Kamchatka"
-msgstr "മോസ്കോ+09 - കംചത്കാ"
+msgstr "Камчатка"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:20001
 msgid "Moscow+10 - Bering Sea"
-msgstr "മോസ്കോ+10 - ബെറിംഗ് കടല്‍"
+msgstr "Анадырь"
 
 #. Type: select
 #. Choices
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:21001
 msgid "Johnston Atoll"
-msgstr "ജോണ്‍സണ്‍ അടോള്‍"
+msgstr "Джонстон"
 
 #. Type: select
 #. Choices
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:21001
 msgid "Midway Islands"
-msgstr "മിഡ്‌വേ ദ്വീപുകള്‍"
+msgstr "Мидуэй аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:21001
 msgid "Wake Island"
-msgstr "വേയ്ക്ക് ദ്വീപു്"
+msgstr "Уэйк-Айленд"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:22001
 msgid "Alaska"
-msgstr "അലാസ്ക"
+msgstr "Аляска"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:22001
 msgid "Hawaii"
-msgstr "ഹവായ്"
+msgstr "Гавайи аралдары"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:22001
 msgid "Arizona"
-msgstr "അരിസോണ"
+msgstr "Аризона штаты"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:22001
 msgid "East Indiana"
-msgstr "കിഴക്കേ ഇന്ത്യാന"
+msgstr "Шығыс Индиана штаты"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:22001
 msgid "Samoa"
-msgstr "സമോവ"
+msgstr "Самоа"
 
 #. Type: text
 #. Description
@@ -861,18 +856,19 @@ msgstr "സമോവ"
 #. :sl1:
 #: ../tzsetup-udeb.templates:1001
 msgid "Saving the time zone..."
-msgstr "സമയ മേഘല സൂക്ഷിച്ചു കൊണ്ടിരിയ്ക്കുന്നു..."
+msgstr "Уақыт белдеуі туралы ақпаратты сақтау..."
 
 #. Type: note
 #. Description
 #. :sl1:
 #: ../tzsetup-udeb.templates:2001
 msgid "Selected time zone"
-msgstr "തെരഞ്ഞെടുത്ത സമയ മേഘല"
+msgstr "Таңдалған уақыт белдеуі"
 
 #. Type: note
 #. Description
 #. :sl1:
 #: ../tzsetup-udeb.templates:2001
 msgid "Based on your country, your time zone is ${ZONE}."
-msgstr "നിങ്ങളുടെ രാജ്യത്തെ അടിസ്ഥാനമാക്കി, നിങ്ങളുടെ സമയ മേഘല ${ZONE} ആണു്."
+msgstr ""
+"Көрсетілген еліңізге сәйкес, сіз ${ZONE} уақыт белдеуінде орналасқансыз."
