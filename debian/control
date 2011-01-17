@@ -5,7 +5,8 @@ Maintainer: Debian Install System Team <debian-boot@lists.debian.org>
 Uploaders: Otavio Salvador <otavio@debian.org>, Christian Perrier <bubulle@debian.org>
 Build-Depends: debhelper (>= 7.0.50), tzdata, iso-codes, isoquery
 Build-Depends-Indep: po-debconf
-Vcs-Svn: svn://svn.debian.org/d-i/trunk/packages/tzsetup
+Vcs-Browser: http://git.debian.org/?p=d-i/tzsetup.git
+Vcs-Git: git://git.debian.org/d-i/tzsetup.git
 
 Package: tzsetup-udeb
 Architecture: all
