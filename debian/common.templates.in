@@ -45,7 +45,7 @@ Template: tzsetup/country/BR
 Type: select
 Default: America/Sao_Paulo
 Choices-C: America/Noronha, America/Belem, America/Fortaleza, America/Recife, America/Araguaina, America/Maceio, America/Bahia, America/Sao_Paulo, America/Campo_Grande, America/Cuiaba, America/Santarem, America/Porto_Velho, America/Boa_Vista, America/Manaus, America/Eirunepe, America/Rio_Branco
-__Choices: Noronha, Belem, Fortaleza, Recife, Araguaina, Maceio, Bahia, Sao Paulo, Campo Grande, Cuiaba, Santarem, Porto Velho, Boa Vista, Manaus, Eirunepe, Rio Branco
+__Choices: Fernando de Noronha, Belem, Fortaleza, Recife, Araguaina, Maceio, Bahia, Sao Paulo, Campo Grande, Cuiaba, Santarem, Porto Velho, Boa Vista, Manaus, Eirunepe, Rio Branco
 Description: city
 
 Template: tzsetup/country/CA
@@ -82,7 +82,7 @@ Description: location
 Template: tzsetup/country/FM
 Type: select
 Choices-C: Pacific/Yap, Pacific/Truk, Pacific/Ponape, Pacific/Kosrae
-__Choices: Yap, Truk, Ponape, Kosrae
+__Choices: Yap, Truk, Pohnpei, Kosrae
 Description: location
 
 Template: tzsetup/country/GL
