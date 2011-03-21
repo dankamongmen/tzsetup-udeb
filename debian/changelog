@@ -4,6 +4,7 @@ tzsetup (1:0.34) UNRELEASED; urgency=low
     time zones (not changing the original timezone name in
     Choices-C, though). Closes: #580744
   * Russia has only 9 timezones after the 2010 reform
+  * Canada/Yukon dropped: same timezone than Canada/Pacific
 
  -- Christian Perrier <bubulle@debian.org>  Mon, 14 Feb 2011 19:28:30 +0100
 
