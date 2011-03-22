@@ -51,8 +51,8 @@ Description: city
 Template: tzsetup/country/CA
 Type: select
 Default: Canada/Eastern
-Choices-C: Canada/Newfoundland, Canada/Atlantic, Canada/Eastern, Canada/Central, Canada/East-Saskatchewan, Canada/Saskatchewan, Canada/Mountain, Canada/Pacific, Canada/Yukon
-__Choices: Newfoundland, Atlantic, Eastern, Central, East Saskatchewan, Saskatchewan, Mountain, Pacific, Yukon
+Choices-C: Canada/Newfoundland, Canada/Atlantic, Canada/Eastern, Canada/Central, Canada/East-Saskatchewan, Canada/Saskatchewan, Canada/Mountain, Canada/Pacific
+__Choices: Newfoundland, Atlantic, Eastern, Central, East Saskatchewan, Saskatchewan, Mountain, Pacific
 Description: zone
 
 Template: tzsetup/country/CD
