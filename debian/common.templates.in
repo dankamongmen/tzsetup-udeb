@@ -36,9 +36,9 @@ Description: location
 
 Template: tzsetup/country/AU
 Type: select
-Default: Australia/Sydney
-Choices-C: Australia/Lord_Howe, Australia/Hobart, Australia/Melbourne, Australia/Sydney, Australia/Broken_Hill, Australia/Brisbane, Australia/Lindeman, Australia/Adelaide, Australia/Darwin, Australia/Perth, Australia/Canberra, Australia/Eucla, Australia/Currie, Australia/Yancowinna
-__Choices: Lord Howe Island, Hobart, Melbourne, Sydney, Broken Hill, Brisbane, Lindeman, Adelaide, Darwin, Perth, Canberra, Eucla, Currie, Yancowinna
+Default: Australia/Canberra
+Choices-C: Australia/Canberra, Australia/Brisbane, Australia/Adelaide, Australia/Darwin, Australia/Perth, Australia/Eucla, Australia/Lord_Howe 
+__Choices: Victoria\, ACT\, NSW\, Tasmania (Eastern Time\, DST), Queensland (Eastern Time\, no DST), South Australia (Central Time\, DST), Northern Territory (Central Time\, no DST), Western Australia (Western Time), Central Western Standard Time (Eucla), Lord Howe Island
 Description: city
 
 Template: tzsetup/country/BR

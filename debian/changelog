@@ -5,6 +5,8 @@ tzsetup (1:0.34) UNRELEASED; urgency=low
     Choices-C, though). Closes: #580744
   * Russia has only 9 timezones after the 2010 reform
   * Canada/Yukon dropped: same timezone than Canada/Pacific
+  * Make timezone "real" names more explicit for Australia. Only
+    show timezones that really have different time standards
 
  -- Christian Perrier <bubulle@debian.org>  Mon, 14 Feb 2011 19:28:30 +0100
 
