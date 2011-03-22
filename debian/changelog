@@ -1,5 +1,6 @@
 tzsetup (1:0.34) UNRELEASED; urgency=low
 
+  * The "let's be clearer about timezones" release
   * Use "Pohnpei" and "Fernando de Noronha" as names for these
     time zones (not changing the original timezone name in
     Choices-C, though). Closes: #580744
@@ -7,6 +8,8 @@ tzsetup (1:0.34) UNRELEASED; urgency=low
   * Canada/Yukon dropped: same timezone than Canada/Pacific
   * Make timezone "real" names more explicit for Australia. Only
     show timezones that really have different time standards
+  * Use official names for Indonesian timezones plus some hints
+    about provinces
 
  -- Christian Perrier <bubulle@debian.org>  Mon, 14 Feb 2011 19:28:30 +0100
 
