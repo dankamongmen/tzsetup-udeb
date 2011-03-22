@@ -94,7 +94,7 @@ Description: location
 Template: tzsetup/country/ID
 Type: select
 Choices-C: Asia/Jakarta, Asia/Makassar, Asia/Jayapura
-__Choices: Western (Sumatra\, Jakarta\, Java, West and Central Kalimantan), Central (Sulawesi\, Bali\, Nusa Tenggara\, East and South Kalimantan), Eastern (Maluku\, Papua)
+__Choices: Western (Sumatra\, Jakarta\, Java\, West and Central Kalimantan), Central (Sulawesi\, Bali\, Nusa Tenggara\, East and South Kalimantan), Eastern (Maluku\, Papua)
 Description: city
 
 Template: tzsetup/country/KI
