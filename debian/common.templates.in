@@ -37,8 +37,8 @@ Description: location
 Template: tzsetup/country/AU
 Type: select
 Default: Australia/Canberra
-Choices-C: Australia/Canberra, Australia/Brisbane, Australia/Adelaide, Australia/Darwin, Australia/Perth, Australia/Eucla, Australia/Lord_Howe 
-__Choices: Victoria\, ACT\, NSW\, Tasmania (Eastern Time\, DST), Queensland (Eastern Time\, no DST), South Australia (Central Time\, DST), Northern Territory (Central Time\, no DST), Western Australia (Western Time), Central Western Standard Time (Eucla), Lord Howe Island
+Choices-C: Australia/Canberra, Australia/Sydney, Australia/Darwin, Australia/Brisbane, Australia/Adelaide, Australia/Hobart, Australia/Perth, Australia/Eucla, Australia/Yancowinna, Australia/Lord_Howe 
+__Choices: Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Western Australia, Eyre Highway, Yancowinna County, Lord Howe Island
 Description: city
 
 Template: tzsetup/country/BR
