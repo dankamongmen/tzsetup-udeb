@@ -10,6 +10,7 @@ tzsetup (1:0.34) UNRELEASED; urgency=low
     Australia.
   * Use official names for Indonesian timezones plus some hints
     about provinces
+  * Use state names for Brazil.
 
  -- Christian Perrier <bubulle@debian.org>  Mon, 14 Feb 2011 19:28:30 +0100
 
