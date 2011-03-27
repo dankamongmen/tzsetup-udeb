@@ -53,7 +53,7 @@ Type: select
 Default: America/Sao_Paulo
 Choices-C: America/Rio_Branco, America/Maceio, America/Manaus, America/Belem, America/Bahia, America/Fortaleza, America/Sao_Paulo, America/Sao_Paulo, America/Noronha, America/Sao_Paulo, America/Fortaleza, America/Sao_Paulo, America/Campo_Grande, America/Cuiaba, America/Belem, America/Fortaleza, America/Recife, America/Fortaleza, America/Sao_Paulo, America/Sao_Paulo, America/Fortaleza, America/Porto_Velho, America/Boa_Vista, America/Sao_Paulo, America/Sao_Paulo, America/Maceio, America/Sao_Paulo, America/Araguaina
 # Time zone for Brazil
-__Choices: Acre, Alagoas, Amazonas, Amapá, Bahia, Ceará, Distrito Federal, Espírito Santo, Fernando de Noronha, Goiás, Maranhão, Minas Gerais, Mato Grosso do Sul, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Paraná, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Rio Grande do Sul, Santa Catarina, Sergipe, Sâo Paulo, Tocantins
+__Choices: Acre, Alagoas, Amazonas, Amapá, Bahia, Ceará, Distrito Federal, Espírito Santo, Fernando de Noronha, Goiás, Maranhão, Minas Gerais, Mato Grosso do Sul, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Paraná, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Rio Grande do Sul, Santa Catarina, Sergipe, São Paulo, Tocantins
 Description: state
 
 
