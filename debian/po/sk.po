@@ -21,6 +21,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
 
 #. Type: select
 #. Description
@@ -201,21 +202,21 @@ msgstr "Yancowinna"
 msgid "Lord Howe Island"
 msgstr "Ostrov lorda Howa"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Acre"
-msgstr "Azory"
+msgstr "Acre"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Alagoas"
-msgstr "Galapágy"
+msgstr "Alagoas"
 
 #. Type: select
 #. Choices
@@ -281,26 +282,29 @@ msgstr ""
 msgid "Maranhão"
 msgstr ""
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Minas Gerais"
-msgstr ""
+msgstr "Minas Gerais"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso do Sul"
-msgstr ""
+msgstr "Mato Grosso do Sul"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
-msgstr ""
+msgstr "Mato Grosso"
 
 #. Type: select
 #. Choices
@@ -316,12 +320,13 @@ msgstr ""
 msgid "Paraíba"
 msgstr ""
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuco"
 
 #. Type: select
 #. Choices
@@ -337,19 +342,21 @@ msgstr ""
 msgid "Paraná"
 msgstr ""
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio de Janeiro"
-msgstr ""
+msgstr "Rio de Janeiro"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Norte"
-msgstr ""
+msgstr "Rio Grande do Norte"
 
 #. Type: select
 #. Choices
@@ -358,20 +365,21 @@ msgstr ""
 msgid "Rondônia"
 msgstr ""
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Roraima"
-msgstr "rumunská"
+msgstr "Roraima"
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
-msgstr ""
+msgstr "Rio Grande do Sul"
 
 #. Type: select
 #. Choices
@@ -380,12 +388,13 @@ msgstr ""
 msgid "Santa Catarina"
 msgstr ""
 
+# [geodesy]
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Sergipe"
-msgstr ""
+msgstr "Sergipe"
 
 #. Type: select
 #. Choices

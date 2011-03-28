@@ -17,6 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ga\n"
 
 #. Type: select
 #. Description
@@ -164,9 +165,8 @@ msgstr "Meiriceá Theas"
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Tasmania"
-msgstr "Rómánach"
+msgstr "An Tasmáin"
 
 #. Type: select
 #. Choices
