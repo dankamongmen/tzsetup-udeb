@@ -168,7 +168,7 @@ Type: select
 Default: Europe/Moscow
 Choices-C: Europe/Kaliningrad, Europe/Moscow, Asia/Yekaterinburg, Asia/Omsk, Asia/Krasnoyarsk, Asia/Irkutsk, Asia/Yakutsk, Asia/Vladivostok, Asia/Magadan
 # Time zone for Russian Federation
-__Choices: Moscow-01 - Kaliningrad, Moscow+00 - Moscow, Moscow+02 - Yekaterinburg, Moscow+03 - Omsk, Moscow+04 - Kranoyarsk, Moscow+05 - Irkutsk, Moscow+06 - Yakutsk, Moscow+07 - Vladivostok, Moscow+08 - Magadan
+__Choices: Moscow-01 - Kaliningrad, Moscow+00 - Moscow, Moscow+02 - Yekaterinburg, Moscow+03 - Omsk, Moscow+04 - Krasnoyarsk, Moscow+05 - Irkutsk, Moscow+06 - Yakutsk, Moscow+07 - Vladivostok, Moscow+08 - Magadan
 Description: zone
 
 Template: tzsetup/country/UM
