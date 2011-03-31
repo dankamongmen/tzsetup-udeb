@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ku\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-27 09:41+0200\n"
+"POT-Creation-Date: 2011-03-30 22:50+0000\n"
 "PO-Revision-Date: 2010-08-16 00:19+0200\n"
 "Last-Translator: Erdal Ronahi <erdal.ronahi@gmail.com>\n"
 "Language-Team: Kurdish Team http://pckurd.net\n"
@@ -795,7 +795,7 @@ msgstr "Moskowa+02 - Ural"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
-msgid "Moscow+04 - Kranoyarsk"
+msgid "Moscow+04 - Krasnoyarsk"
 msgstr "Moskowa+02 - Ural"
 
 #. Type: select

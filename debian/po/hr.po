@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian-installer 1st-stage master file HR\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-27 09:41+0200\n"
+"POT-Creation-Date: 2011-03-30 22:50+0000\n"
 "PO-Revision-Date: 2010-07-07 12:30+0200\n"
 "Last-Translator: Josip Rodin <joy+ditrans@linux.hr>\n"
 "Language-Team: Croatian <lokalizacija@linux.hr>\n"
@@ -790,7 +790,7 @@ msgstr "Moscow+02 - Urals"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
-msgid "Moscow+04 - Kranoyarsk"
+msgid "Moscow+04 - Krasnoyarsk"
 msgstr "Moscow+02 - Urals"
 
 #. Type: select

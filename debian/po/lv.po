@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lv\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-27 09:41+0200\n"
+"POT-Creation-Date: 2011-03-30 22:50+0000\n"
 "PO-Revision-Date: 2010-11-17 00:02+0200\n"
 "Last-Translator: Aigars Mahinovs <aigarius@debian.org>\n"
 "Language-Team: Latvian <locale@laka.lv>\n"
@@ -795,7 +795,7 @@ msgstr "Maskava+02 - Urāli"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
-msgid "Moscow+04 - Kranoyarsk"
+msgid "Moscow+04 - Krasnoyarsk"
 msgstr "Maskava+02 - Urāli"
 
 #. Type: select

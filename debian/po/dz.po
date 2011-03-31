@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dDz.po\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-27 09:41+0200\n"
+"POT-Creation-Date: 2011-03-30 22:50+0000\n"
 "PO-Revision-Date: 2010-11-16 23:22-0500\n"
 "Last-Translator: Jurmey Rabgay <jrabgay@dit.gov.bt>\n"
 "Language-Team: Dzongkha <pgeyleg@dit.gov.bt>\n"
@@ -792,7 +792,7 @@ msgstr "ཡི་ཀ་ཊི་རིན་བརཇ"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
-msgid "Moscow+04 - Kranoyarsk"
+msgid "Moscow+04 - Krasnoyarsk"
 msgstr "ཡི་ཀ་ཊི་རིན་བརཇ"
 
 #. Type: select
