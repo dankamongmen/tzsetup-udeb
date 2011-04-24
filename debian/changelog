@@ -1,4 +1,4 @@
-tzsetup (1:0.34) UNRELEASED; urgency=low
+tzsetup (1:0.34) unstable; urgency=low
 
   * The "let's be clearer about timezones" release
   * Use "Pohnpei" and "Fernando de Noronha" as names for these
@@ -12,7 +12,36 @@ tzsetup (1:0.34) UNRELEASED; urgency=low
     about provinces
   * Use state names for Brazil.
 
- -- Christian Perrier <bubulle@debian.org>  Mon, 14 Feb 2011 19:28:30 +0100
+  [ Updated translations ]
+  * Belarusian (be.po) by Pavel Piatruk
+  * Bulgarian (bg.po) by Damyan Ivanov
+  * Bengali (bn.po) by Israt Jahan
+  * Czech (cs.po) by Miroslav Kure
+  * German (de.po) by Holger Wansing
+  * Esperanto (eo.po) by Felipe Castro
+  * Spanish (es.po) by Javier Fernández-Sanguino
+  * Estonian (et.po) by Mattias Põldaru
+  * Basque (eu.po) by Piarres Beobide
+  * Persian (fa.po) by Behrad Eslamifar
+  * French (fr.po) by Christian Perrier
+  * Georgian (ka.po) by Aiet Kolkhi
+  * Kazakh (kk.po) by Baurzhan Muftakhidinov
+  * Korean (ko.po) by Changwoo Ryu
+  * Marathi (mr.po) by sampada
+  * Bokmål, Norwegian (nb.po) by Hans Fredrik Nordhaug
+  * Nepali (ne.po)
+  * Portuguese (pt.po) by Miguel Figueiredo
+  * Romanian (ro.po) by Eddy Petrișor
+  * Russian (ru.po) by Yuri Kozlov
+  * Northern Sami (se.po) by Børre Gaup
+  * Slovak (sk.po) by Ivan Masár
+  * Swedish (sv.po) by Daniel Nylander
+  * Telugu (te.po) by Arjuna Rao Chavala
+  * Thai (th.po) by Theppitak Karoonboonyanan
+  * Uighur (ug.po) by Sahran
+  * Simplified Chinese (zh_CN.po) by YunQiang Su
+
+ -- Christian Perrier <bubulle@debian.org>  Fri, 22 Apr 2011 06:14:35 +0200
 
 tzsetup (1:0.33) unstable; urgency=low
 
