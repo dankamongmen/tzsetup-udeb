@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-04-15 11:58+0800\n"
+"PO-Revision-Date: 2011-05-06 21:29+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -191,9 +191,8 @@ msgstr "艾尔高速公路"
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "Yancowinna"
+msgstr "Yancowinna 县"
 
 #. Type: select
 #. Choices
@@ -221,7 +220,7 @@ msgstr "阿拉戈阿斯"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Amazonas"
-msgstr "亚马孙州"
+msgstr "亚马逊州"
 
 #. Type: select
 #. Choices
