@@ -7,22 +7,33 @@
 # Basque messages for debian-installer.
 # Copyright (C) 2003 Software in the Public Interest, Inc.
 # This file is distributed under the same license as debian-installer.
-# Inaki Larranaga Murgoitio 2005
 #
-# Piarres Beobide <pi@beobide.net>, 2004, 2005, 2006, 2007, 2008, 2009.
+# Piarres Beobide <pi@beobide.net>, 2004-2009, 2011
 # Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2008, 2010.
+#
+# Translations from iso-codes:
+#   Mikel Olasagasti <hey_neken@mundurat.net>, 2004.
+#   Piarres Beobide Egaña <pi@beobide.net>, 2004,2006,2007, 2008, 2009.
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2010.
+#   Free Software Foundation, Inc., 2002.
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Marcos Goienetxe <marcos_g@infonegocio.com>, 2002.
+# Piarres Beobide <pi@beobide.net>, 2008.
+# Xabier Bilbao <xabidu@gmail.com>, 2008.
+# Copyright (C)
+#   Translations from KDE:
 msgid ""
 msgstr ""
 "Project-Id-Version: eu\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-01-25 07:19+0200\n"
-"Last-Translator: Piarres Beobide <pi@beobide.net>\n"
-"Language-Team: Basque <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2011-06-22 18:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: Basque <debian-l10n-basque@lists.debian.org>\n"
+"Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: eu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Content-Transfer-Encoding=UTF-8Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -65,9 +76,8 @@ msgstr "Hautatu ordu-zonako herria:"
 #. Type: text
 #. Description
 #: ../common.templates:6001
-#, fuzzy
 msgid "Select the state or province to set your time zone:"
-msgstr "Hautatu ordu-zonaren kokapena:"
+msgstr "Hautatu ordu-zonaldea ezartzeko estatu edo probintzia:"
 
 #. Type: select
 #. Choices
@@ -137,51 +147,49 @@ msgstr "Syowa"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "Australiako hiriburuaren lurraldea"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
-msgstr ""
+msgstr "Hego Gales berria"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Northern Territory"
-msgstr ""
+msgstr "Iparraldeko lurraldea"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Queensland"
-msgstr ""
+msgstr "Queensland"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "South Australia"
-msgstr "Hego Amerika"
+msgstr "Hego Australia"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Tasmania"
-msgstr "Errumaniarra"
+msgstr "Tasmania"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Western Australia"
-msgstr ""
+msgstr "Mendebaldeko Australia"
 
 #. Type: select
 #. Choices
@@ -194,9 +202,8 @@ msgstr ""
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "Yancowinna"
+msgstr "Yancowinna konderria"
 
 #. Type: select
 #. Choices
@@ -209,32 +216,29 @@ msgstr "Lord Howe uhartea"
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Acre"
-msgstr "Azores"
+msgstr "Acre"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Alagoas"
-msgstr "Galapagoak"
+msgstr "Alagoas"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Amazonas"
-msgstr "Arizona"
+msgstr "Amazonas"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Amapá"
-msgstr ""
+msgstr "Amapá"
 
 #. Type: select
 #. Choices
@@ -248,14 +252,14 @@ msgstr "Bahia"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Ceará"
-msgstr ""
+msgstr "Ceará"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Distrito Federal"
-msgstr ""
+msgstr "Barruti Federala"
 
 #. Type: select
 #. Choices
@@ -304,7 +308,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
-msgstr ""
+msgstr "Mato Grosso"
 
 #. Type: select
 #. Choices
@@ -325,7 +329,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuco"
 
 #. Type: select
 #. Choices
@@ -366,16 +370,15 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Roraima"
-msgstr "Errumaniarra"
+msgstr "Roraima"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
-msgstr ""
+msgstr "Hegoaldeko Rio grande"
 
 #. Type: select
 #. Choices
@@ -395,16 +398,15 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "São Paulo"
-msgstr "Sao Paulo"
+msgstr "São Paulo"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Tocantins"
-msgstr ""
+msgstr "Tocantins"
 
 #. Type: select
 #. Choices
@@ -567,9 +569,8 @@ msgstr "Truk"
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
-#, fuzzy
 msgid "Pohnpei"
-msgstr "Ponape"
+msgstr "Pohnpei"
 
 #. Type: select
 #. Choices
@@ -611,21 +612,21 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Mendebalea (Sumatra, Jakarta, Java, Mendebalde eta Erdi Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
-msgstr ""
+msgstr "Erdikoa  (Sulawesi, Bali, Nusa Tenggara, Eki eta Hego Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Ekialdekoa (Maluku, Papua)"
 
 #. Type: select
 #. Choices
@@ -771,57 +772,50 @@ msgstr "Mosku-01 - Kaliningrad"
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+00 - Moscow"
-msgstr "Mosku+02 - Uralak"
+msgstr "Mosku+00 - Mosku"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+02 - Yekaterinburg"
-msgstr "Mosku+10 - Bering itxasoa"
+msgstr "Mosku+02 - Yekaterinburg"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+03 - Omsk"
-msgstr "Mosku+02 - Uralak"
+msgstr "Mosku+03 - Omsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+04 - Krasnoyarsk"
-msgstr "Mosku+02 - Uralak"
+msgstr "Mosku+04 - Krasnoyarsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+05 - Irkutsk"
-msgstr "Mosku+02 - Uralak"
+msgstr "Mosku+05 - Irkutsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+06 - Yakutsk"
-msgstr "Mosku+02 - Uralak"
+msgstr "Mosku+06 - Yakutsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+07 - Vladivostok"
-msgstr "Mosku+03 - Novosibirsk"
+msgstr "Mosku+07 - Vladivostok"
 
 #. Type: select
 #. Choices
