@@ -12,6 +12,8 @@
 # in doc/i18n/i18n.txt
 #
 #
+# Translations from iso-codes:
+# Sahran <sahran.ug@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
@@ -205,14 +207,14 @@ msgstr "لورد-خاي ئارىلى"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Acre"
-msgstr "ئاكرې"
+msgstr "ئاكرى"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Alagoas"
-msgstr "ئالاگوئاس"
+msgstr "ئالاگوس"
 
 #. Type: select
 #. Choices
@@ -240,28 +242,28 @@ msgstr "باييا"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Ceará"
-msgstr "چېئارا"
+msgstr "سەئارا"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Distrito Federal"
-msgstr "دىسترىتو فېدېرال"
+msgstr "دىستىرىتو-فېدەرال"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Espírito Santo"
-msgstr "ئەسپىرىتو سانتو"
+msgstr "ئېسپىرىتو-سانتو"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Fernando de Noronha"
-msgstr "فېرناندو دې نورونخا"
+msgstr "فېرناندو-دې-نورونيا"
 
 #. Type: select
 #. Choices
@@ -275,28 +277,28 @@ msgstr "گويئاس"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Maranhão"
-msgstr "ماھانھائو"
+msgstr "مارانيائو"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Minas Gerais"
-msgstr "مىناس گەرائىس"
+msgstr "مىناس-گېرايىس"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso do Sul"
-msgstr "ماتو گروسسو دو سۇل"
+msgstr "ماتو-گىروسسو-دو-سۇل"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
-msgstr "ماتو گروسسو"
+msgstr "ماتو-گىروسسو"
 
 #. Type: select
 #. Choices
@@ -317,14 +319,14 @@ msgstr "پارايبا"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
-msgstr "پەرنامبۇچو"
+msgstr "پەرنامبۇكو"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Piauí"
-msgstr "پىئائۇي"
+msgstr "پىئايى"
 
 #. Type: select
 #. Choices
@@ -345,14 +347,14 @@ msgstr "رىئو-دې-جانېيرو"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Norte"
-msgstr "رئىو-گىراندې-دو-نورتې"
+msgstr "رىئو-گىراندە-دو-نورتە"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rondônia"
-msgstr "رودونىيا"
+msgstr "روندونىيە"
 
 #. Type: select
 #. Choices
@@ -366,7 +368,7 @@ msgstr "رورايما"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
-msgstr "رىئو-گىراندې-دو-سۇل"
+msgstr "رىئو-گىراندە-دو-سۇل"
 
 #. Type: select
 #. Choices
@@ -394,7 +396,7 @@ msgstr "سان-پاۋلو"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Tocantins"
-msgstr "توكانتىنس"
+msgstr "توكانتىنىس"
 
 #. Type: select
 #. Choices
@@ -408,7 +410,7 @@ msgstr "نېۋفۇندلاند"
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "Atlantic"
-msgstr "ئاتلانتىك"
+msgstr "ئاتلانتىك ئوكيان"
 
 #. Type: select
 #. Choices
@@ -600,7 +602,7 @@ msgstr "تۇلې"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr "غەرب(سۇماتىرا، جاكارتا، جاۋا، غەربىي ۋە ئوتتۇرا كالىمانتان)"
+msgstr "غەرب(سۇماتىرا، جاكارتا، جاۋاب، غەربىي ۋە ئوتتۇرا كالىمانتان)"
 
 #. Type: select
 #. Choices
@@ -866,7 +868,7 @@ msgstr "شەرقىي ئىندىئانا"
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Samoa"
-msgstr "غەربىي ساموئا"
+msgstr "ساموئا"
 
 #. Type: text
 #. Description
