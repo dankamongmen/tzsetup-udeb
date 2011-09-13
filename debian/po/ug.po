@@ -123,7 +123,7 @@ msgstr "ۋوستوك"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Dumont-d'Urville"
-msgstr "Dumont-d'Urville"
+msgstr "دۇمونت-دې-ئۇرۋىللې"
 
 #. Type: select
 #. Choices
