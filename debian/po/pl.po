@@ -3,6 +3,42 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
+# Polish messages for debian-installer.
+# Copyright (C) 2003 Software in the Public Interest, Inc.
+# This file is distributed under the same license as debian-installer.
+# Copyright (C) 2004-2010 Bartosz Feński <fenio@debian.org>
+#
+#
+# Translations from iso-codes:
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+#   Jakub Bogusz <qboosh@pld-linux.org>, 2009-2011
+#
+#      Alastair McKinstry <mckinstry@computer.org>, 2001
+#      Alastair McKinstry, <mckinstry@debian.org>, 2004.
+#      Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007
+#      Cezary Jackiewicz <cjackiewicz@poczta.onet.pl>, 2000-2001
+#      Free Software Foundation, Inc., 2000-2010
+#      Free Software Foundation, Inc., 2004-2009
+#      GNOME PL Team <translators@gnome.pl>, 2001
+#      Jakub Bogusz <qboosh@pld-linux.org>, 2007-2011
+#      Tomasz Z. Napierala <zen@debian.linux.org.pl>, 2004, 2006.
+#      Translations from KDE:
+#      - Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: debian-installer\n"
+"Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
+"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"PO-Revision-Date: 2011-09-18 21:28+0100\n"
+"Last-Translator: Marcin Owsiany <porridge@debian.org>\n"
+"Language-Team: Polish <debian-l10n-polish@lists.debian.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #. Type: select
 #. Description
 #: ../common.templates:1001
@@ -200,7 +236,7 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Amap"
+msgid "Amapá"
 msgstr ""
 
 #. Type: select
@@ -214,7 +250,7 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Cear"
+msgid "Ceará"
 msgstr ""
 
 #. Type: select
@@ -228,7 +264,7 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Esprito Santo"
+msgid "Espírito Santo"
 msgstr ""
 
 #. Type: select
@@ -242,14 +278,14 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Gois"
+msgid "Goiás"
 msgstr ""
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Maranho"
+msgid "Maranhão"
 msgstr ""
 
 #. Type: select
@@ -277,14 +313,14 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Par"
+msgid "Pará"
 msgstr ""
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Paraba"
+msgid "Paraíba"
 msgstr ""
 
 #. Type: select
@@ -298,14 +334,14 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Piau"
+msgid "Piauí"
 msgstr ""
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Paran"
+msgid "Paraná"
 msgstr ""
 
 #. Type: select
@@ -326,7 +362,7 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "Rondnia"
+msgid "Rondônia"
 msgstr ""
 
 #. Type: select
@@ -361,7 +397,7 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-msgid "So Paulo"
+msgid "São Paulo"
 msgstr ""
 
 #. Type: select

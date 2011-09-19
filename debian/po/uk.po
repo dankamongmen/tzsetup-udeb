@@ -9,15 +9,19 @@
 # Copyright (C) 2003 Software in the Public Interest, Inc.
 # This file is distributed under the same license as debian-installer.
 #
+#
+# Translations from iso-codes:
 # Eugeniy Meshcheryakov <eugen@debian.org>, 2005, 2006, 2007, 2010.
 # Євгеній Мещеряков <eugen@debian.org>, 2008.
-# Borys Yanovych <borys@yanovy.ch>, 2010.
+# Borys Yanovych <borys@yanovy.ch>, 2010, 2011.
+# Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: uk\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2010-11-01 01:29+0200\n"
+"PO-Revision-Date: 2011-09-19 07:23+0300\n"
 "Last-Translator: Borys Yanovych <borys@yanovy.ch>\n"
 "Language-Team: Ukrainian <>\n"
 "Language: uk\n"
@@ -67,9 +71,8 @@ msgstr "Виберіть місто в вашому часовому поясі:
 #. Type: text
 #. Description
 #: ../common.templates:6001
-#, fuzzy
 msgid "Select the state or province to set your time zone:"
-msgstr "Виберіть місце в вашому часовому поясі:"
+msgstr "Виберіть область або місцевість в вашому часовому поясі:"
 
 #. Type: select
 #. Choices
@@ -188,13 +191,12 @@ msgstr "Західна Австралія"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "Ейре Хайвей"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
 msgstr "Янковіна"
 
@@ -605,7 +607,7 @@ msgstr "Туле"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Західна (Суматра, Джакарта, Ява, Західний та Центральний Калімантан)"
 
 #. Type: select
 #. Choices
@@ -613,13 +615,15 @@ msgstr ""
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
 msgstr ""
+"Центральна (Сулавесі, Балі, Малі Зондські острови, Східний та Південний "
+"Калімантан)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Східна (Молуккські острови, Папуа)"
 
 #. Type: select
 #. Choices
@@ -765,57 +769,50 @@ msgstr "Калінінград"
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+00 - Moscow"
-msgstr "Єкатеринбург"
+msgstr "Москва"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+02 - Yekaterinburg"
-msgstr "Анадир"
+msgstr "Єкатеринбург"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+03 - Omsk"
-msgstr "Єкатеринбург"
+msgstr "Омськ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+04 - Krasnoyarsk"
-msgstr "Єкатеринбург"
+msgstr "Красноярськ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+05 - Irkutsk"
-msgstr "Єкатеринбург"
+msgstr "Іркутськ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+06 - Yakutsk"
-msgstr "Єкатеринбург"
+msgstr "Якутськ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+07 - Vladivostok"
-msgstr "Новосибірськ"
+msgstr "Владивосток"
 
 #. Type: select
 #. Choices
