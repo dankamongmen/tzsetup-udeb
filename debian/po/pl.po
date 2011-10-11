@@ -31,7 +31,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-09-26 10:46+0100\n"
+"PO-Revision-Date: 2011-10-11 22:32+0100\n"
 "Last-Translator: Marcin Owsiany <porridge@debian.org>\n"
 "Language-Team: Polish <debian-l10n-polish@lists.debian.org>\n"
 "Language: pl\n"
@@ -198,7 +198,7 @@ msgstr "Australia Zachodnia"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "Eyre Highway"
 
 #. Type: select
 #. Choices
@@ -614,7 +614,7 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "zachodnia (Sumatra, Jakarta, Java, Borneo Zachodnie i Środkowe)"
 
 #. Type: select
 #. Choices
@@ -622,13 +622,14 @@ msgstr ""
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
 msgstr ""
+"środkowa (Sulawesi, Bali, Nusa Tenggara, Borneo Wschodnie i Południowe)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "wschodnia (Maluku, Papua)"
 
 #. Type: select
 #. Choices
