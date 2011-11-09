@@ -36,7 +36,7 @@ msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-10-26 23:28+0200\n"
+"PO-Revision-Date: 2011-11-09 22:16+0200\n"
 "Last-Translator: Lior Kaplan <kaplan@debian.org>\n"
 "Language-Team: Hebrew <>\n"
 "Language: he\n"
@@ -156,28 +156,28 @@ msgstr "Antarctica/Syowa"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "טריטוריית הבירה האוסטרלית"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
-msgstr ""
+msgstr "ניו סאות' ויילס"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Northern Territory"
-msgstr ""
+msgstr "הטריטוריה הצפונית"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Queensland"
-msgstr ""
+msgstr "קווינסלנד"
 
 #. Type: select
 #. Choices
@@ -198,22 +198,21 @@ msgstr "טסמניה"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Western Australia"
-msgstr ""
+msgstr "אוסטרליה המערבית"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "כביש מהיר על שם אייר"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "Yancowinna"
+msgstr "Yancowinna County"
 
 #. Type: select
 #. Choices
