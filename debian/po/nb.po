@@ -12,18 +12,34 @@
 # Axel Bojer <axelb@skolelinux.no>, 2004.
 # Bjørn Steensrud <bjornst@powertech.no>, 2004-2007.
 # Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2005, 2007-2011.
+#
+# Translations from iso-codes:
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Axel Bojer <axelb@skolelinux.no>, 2004.
+#   Bjørn Steensrud <bjornst@powertech.no>, 2006.
+#   Free Software Foundation, Inc., 2002,2004
+#   Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2007-2011.
+#   Håvard Korsvoll <korsvoll@skulelinux.no>, 2004.
+#   Knut Yrvin <knuty@skolelinux.no>, 2004.
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+#   Translations from KDE:
+#   Rune Nordvik <rune@linuxnorge.com>, 2001
+#   Kjartan Maraas <kmaraas@broadpark.no>, 2009.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: nb\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-04-15 20:02+0200\n"
+"PO-Revision-Date: 2011-11-22 22:37+0200\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Type: select
 #. Description
@@ -134,7 +150,7 @@ msgstr "Syowa"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "Australsk hovedstadsterritorium"
 
 #. Type: select
 #. Choices
@@ -183,15 +199,14 @@ msgstr "Vest-Australia"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "Eyre Highway"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "Yancowinna"
+msgstr "Yancowinna County"
 
 #. Type: select
 #. Choices
@@ -601,21 +616,21 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Vestlig (Sumatra, Jakarta, Java, Vest- og Sentral-Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
-msgstr ""
+msgstr "Sentral (Sulawesi, Bali, Nusa Tenggara, Øst- og Sør-Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Østlig (Maluku, Papua)"
 
 #. Type: select
 #. Choices
