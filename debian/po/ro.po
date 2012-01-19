@@ -36,9 +36,9 @@ msgstr ""
 "Project-Id-Version: ro\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-09-15 09:41+0300\n"
+"PO-Revision-Date: 2012-01-19 11:42+0200\n"
 "Last-Translator: Ioan Eugen Stan <stan.ieugen@gmail.com>\n"
-"Language-Team: ro <debian-l10n-romanian@lists.debian.org>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -782,7 +782,7 @@ msgstr "Moscova-01 - Kaliningrad"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow+00 - Moscow"
-msgstr "Moscova+00 - Mosccova"
+msgstr "Moscova+00 - Moscova"
 
 #. Type: select
 #. Choices
