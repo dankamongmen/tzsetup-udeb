@@ -8,13 +8,18 @@
 # tegegne tefera <tefera@mekuria.com>, 2006.
 #
 #
+# Translations from iso-codes:
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Data taken from ICU-2.8; contributed by:
+#   - Daniel Yacob <yacob@geez.org>, Ge'ez Frontier Foundation
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2010-08-19 16:50+0800\n"
-"Last-Translator: ተገኝ ተፈራ <tefera@mekuria.com>\n"
+"PO-Revision-Date: 2012-02-17 05:04+0100\n"
+"Last-Translator: Tegegne Tefera <tefera.tegegne@gmail.com>\n"
 "Language-Team: Amharic\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -159,9 +164,8 @@ msgstr ""
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "South Australia"
-msgstr "ደቡብ አሜሪካ"
+msgstr "ደቡብ አውስትራሊያ"
 
 #. Type: select
 #. Choices
@@ -188,9 +192,8 @@ msgstr ""
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "ያንኮዊና"
+msgstr "ያንኮዊና ካውንቲ"
 
 #. Type: select
 #. Choices
@@ -203,25 +206,22 @@ msgstr "Lord Howe Island"
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Acre"
-msgstr "Azores"
+msgstr "ኣክር"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Alagoas"
-msgstr "Galapagos"
+msgstr "ኣላጎአስ"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Amazonas"
-msgstr "አሪዞና"
+msgstr "አማዞናስ"
 
 #. Type: select
 #. Choices
@@ -360,9 +360,8 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Roraima"
-msgstr "አሟሽ"
+msgstr "ሮራይማ"
 
 #. Type: select
 #. Choices
@@ -389,9 +388,8 @@ msgstr ""
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "São Paulo"
-msgstr "Sao Paulo"
+msgstr "ሳኦፓውሎ"
 
 #. Type: select
 #. Choices
@@ -561,9 +559,8 @@ msgstr "ትሩክ"
 #. Choices
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
-#, fuzzy
 msgid "Pohnpei"
-msgstr "ፖናፔ"
+msgstr "ፖንፔ"
 
 #. Type: select
 #. Choices
@@ -765,25 +762,22 @@ msgstr "Moscow-01 - Kaliningrad"
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+00 - Moscow"
-msgstr "Moscow+02 - Urals"
+msgstr "ሞስኮ+02 - ሞስኮ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+02 - Yekaterinburg"
-msgstr "Moscow+10 - Bering Sea"
+msgstr "ሞስኮ+02 - የካተሪንበርግ"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+03 - Omsk"
-msgstr "Moscow+02 - Urals"
+msgstr "ሞስኮ+02 - ኦምስክ"
 
 #. Type: select
 #. Choices
