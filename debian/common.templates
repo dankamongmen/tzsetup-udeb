@@ -43,9 +43,9 @@ Description: location
 Template: tzsetup/country/AU
 Type: select
 Default: Australia/Canberra
-Choices-C: Australia/Canberra, Australia/Sydney, Australia/Darwin, Australia/Brisbane, Australia/Adelaide, Australia/Hobart, Australia/Perth, Australia/Eucla, Australia/Yancowinna, Australia/Lord_Howe 
+Choices-C: Australia/Canberra, Australia/Sydney, Australia/Melbourne, Australia/Darwin, Australia/Brisbane, Australia/Adelaide, Australia/Hobart, Australia/Perth, Australia/Eucla, Australia/Yancowinna, Australia/Lord_Howe 
 # Time zone for Australia
-__Choices: Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Western Australia, Eyre Highway, Yancowinna County, Lord Howe Island
+__Choices: Australian Capital Territory, New South Wales, Victoria, Northern Territory, Queensland, South Australia, Tasmania, Western Australia, Eyre Highway, Yancowinna County, Lord Howe Island
 Description: state
 
 Template: tzsetup/country/BR

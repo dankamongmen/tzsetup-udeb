@@ -1,3 +1,9 @@
+tzsetup (1:0.36) UNRELEASED; urgency=low
+
+  * Add Vitoria state to list of timezones for Australia. Closes: #660959
+
+ -- Christian Perrier <bubulle@debian.org>  Thu, 23 Feb 2012 17:14:49 +0100
+
 tzsetup (1:0.35) unstable; urgency=low
 
   * Team upload
