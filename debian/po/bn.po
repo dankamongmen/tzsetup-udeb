@@ -22,7 +22,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2011-05-09 13:28+0600\n"
 "Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
@@ -150,6 +150,13 @@ msgstr "অস্ট্রেলিয়ান রাজধানী এলাক�
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "নিউ সাউথ ওয়েলস"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr ""
 
 #. Type: select
 #. Choices

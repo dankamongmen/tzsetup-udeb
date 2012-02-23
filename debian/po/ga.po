@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2006-03-21 14:42-0500\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
@@ -143,6 +143,13 @@ msgstr "Limistéar na Príomhchathrach Astrálaí"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "New South Wales"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr ""
 
 #. Type: select
 #. Choices

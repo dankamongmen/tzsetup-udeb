@@ -11,11 +11,17 @@
 # Trịnh Minh Thành <tmthanh@yahoo.com>
 # Clytie Siddall <clytie@riverland.net.au>, 2005-2010
 #
+#
+# Translations from iso-codes:
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+# Copyright © 2009 Free Software Foundation, Inc.
+# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>, 2001.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer Level 1\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2010-09-28 18:01+0930\n"
 "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
@@ -143,6 +149,13 @@ msgstr "Vùng lãnh thổ kinh đô Úc"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "New South Wales"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr "Victoria"
 
 #. Type: select
 #. Choices

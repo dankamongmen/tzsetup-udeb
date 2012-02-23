@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian Installer Level 1\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2010-11-21 07:56+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Debian Malayalam <debian-l10n-malayalam@lists.debian.org>\n"
@@ -147,6 +147,13 @@ msgstr ""
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
+msgstr ""
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
 msgstr ""
 
 #. Type: select

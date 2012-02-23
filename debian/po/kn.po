@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kn\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2011-11-18 19:11+0530\n"
 "Last-Translator: Prabodh C P <prabodh@fsmk.org>\n"
 "Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
@@ -147,6 +147,13 @@ msgstr "ಆಸ್ಟ್ರೇಲಿಯಾದ ರಾಜಧಾನಿ ಭೂಭಾ�
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "ನ್ಯು ಸೌತ್ ವೇಲ್ಸ್"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr ""
 
 #. Type: select
 #. Choices

@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2012-01-28 13:25+0100\n"
 "Last-Translator: Mikel González <mikelglez@softastur.org>\n"
 "Language-Team: Softastur\n"
@@ -146,6 +146,13 @@ msgstr "Territoriu Capital Australia"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "Nuevu Gales del Sur"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr ""
 
 #. Type: select
 #. Choices

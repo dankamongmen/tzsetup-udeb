@@ -32,9 +32,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-10-31 11:25+0200\n"
-"Last-Translator: galaxico <galaxico@quad-nrg.net>\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
+"PO-Revision-Date: 2012-02-19 17:03+0200\n"
+"Last-Translator: \n"
 "Language-Team: Greek <debian-l10n-greek@lists.debian.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -161,6 +161,13 @@ msgstr "Περιοχή Πρωτεύουσας Αυστραλίας"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "Νέα Νότια Ουαλία"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr "Βικτωρία"
 
 #. Type: select
 #. Choices

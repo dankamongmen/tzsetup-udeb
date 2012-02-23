@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: te\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
 "PO-Revision-Date: 2011-10-08 12:07+0530\n"
 "Last-Translator: Arjuna Rao Chavala <arjunaraoc@gmail.com>\n"
 "Language-Team: d-i <kde-i18n-doc@kde.org>\n"
@@ -146,6 +146,13 @@ msgstr "ఆస్ట్రేలియన్ కేపిటల్ టెరి�
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "న్యూ సౌత్ వేల్స్"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr ""
 
 #. Type: select
 #. Choices

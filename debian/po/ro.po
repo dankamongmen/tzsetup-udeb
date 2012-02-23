@@ -35,9 +35,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ro\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2012-01-19 11:42+0200\n"
-"Last-Translator: Ioan Eugen Stan <stan.ieugen@gmail.com>\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
+"PO-Revision-Date: 2012-01-28 00:04+0200\n"
+"Last-Translator: Bradut Boghita <bradut@bradut.com>\n"
 "Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -164,6 +164,13 @@ msgstr "Teritoriul capitalei Australiei"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "Noul Wales de Sud"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr "Victoria"
 
 #. Type: select
 #. Choices

@@ -24,8 +24,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2011-03-30 22:50+0000\n"
-"PO-Revision-Date: 2011-12-04 00:12+0100\n"
+"POT-Creation-Date: 2012-02-23 22:48+0000\n"
+"PO-Revision-Date: 2012-02-17 21:48+0100\n"
 "Last-Translator: Karolina Kalic <karolina@resenje.org>\n"
 "Language-Team: Serbian/Cyrillic\n"
 "Language: \n"
@@ -150,6 +150,13 @@ msgstr "Аустралијска Престоничка Територија"
 #: ../common.templates:9001
 msgid "New South Wales"
 msgstr "Нови Јужни Велс"
+
+#. Type: select
+#. Choices
+#. Time zone for Australia
+#: ../common.templates:9001
+msgid "Victoria"
+msgstr "Викторија"
 
 #. Type: select
 #. Choices
