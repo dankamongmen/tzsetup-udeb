@@ -25,13 +25,13 @@
 # Kumar Appaiah <kumar.appaiah@gmail.com>, 2009.
 #   Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Kumar Appaiah <a.kumar@alumni.iitm.ac.in>, 2008.
-# Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2011.
+# Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer_packages_po_sublevel1_hi\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2011-09-17 09:17-0500\n"
+"PO-Revision-Date: 2012-02-23 22:25-0600\n"
 "Last-Translator: Kumar Appaiah\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
@@ -163,7 +163,7 @@ msgstr "न्यू साउथ वेल्स"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "विक्टोरिया"
 
 #. Type: select
 #. Choices
