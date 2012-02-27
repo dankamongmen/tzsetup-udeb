@@ -149,7 +149,7 @@ msgstr "New South Wales"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "Victoria"
 
 #. Type: select
 #. Choices

@@ -5,7 +5,7 @@
 #
 #
 #
-# Debian Installer master translation file template
+# Debian Installer master translation for Uyghur
 # Don't forget to properly fill-in the header of PO files
 #
 # Debian Installer translators, please read the D-I i18n documentation
@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2011-03-24 09:40+0600\n"
+"PO-Revision-Date: 2012-02-27 17:17+0600\n"
 "Last-Translator: Sahran <sahran.ug@gmail.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
 "Language: \n"
@@ -151,7 +151,7 @@ msgstr "يېڭى جەنۇبىي ۋېيلىس"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "ۋىكتورىيە"
 
 #. Type: select
 #. Choices

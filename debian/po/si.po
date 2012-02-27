@@ -12,14 +12,14 @@
 # in doc/i18n/i18n.txt
 #
 #
-# Danishka Navin <danishka@gmail.com>, 2009, 2011.
+# Danishka Navin <danishka@gmail.com>, 2009, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2011-09-15 07:01+0530\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2012-02-27 21:09+0530\n"
+"Last-Translator: Danishka Navin <danishka@gmail.com>\n"
 "Language-Team: Sinhala <info@hanthana.org>\n"
 "Language: si\n"
 "MIME-Version: 1.0\n"
@@ -150,7 +150,7 @@ msgstr "නව දකුණු වේල්ස"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "වික්ටෝරියා"
 
 #. Type: select
 #. Choices
