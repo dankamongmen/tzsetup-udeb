@@ -832,7 +832,7 @@ msgstr "Moskwa+07 - Władywostok"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow+08 - Magadan"
-msgstr "Mokswa+08 - Magadan"
+msgstr "Moskwa+08 - Magadan"
 
 #. Type: select
 #. Choices
