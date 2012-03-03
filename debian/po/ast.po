@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2012-01-28 13:25+0100\n"
+"PO-Revision-Date: 2012-03-03 13:06+0200\n"
 "Last-Translator: Mikel González <mikelglez@softastur.org>\n"
 "Language-Team: Softastur\n"
 "Language: ast\n"
@@ -152,7 +152,7 @@ msgstr "Nuevu Gales del Sur"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "Victoria"
 
 #. Type: select
 #. Choices
@@ -743,7 +743,7 @@ msgstr "Islles Gambier"
 #. Time zone for Portugal
 #: ../common.templates:25001
 msgid "Lisbon"
-msgstr "Llisboa"
+msgstr "Lisboa"
 
 #. Type: select
 #. Choices
@@ -848,14 +848,14 @@ msgstr "Islles Wake"
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Alaska"
-msgstr "Alaska"
+msgstr "Alasca"
 
 #. Type: select
 #. Choices
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Hawaii"
-msgstr "Hawaii"
+msgstr "Ḥawai"
 
 #. Type: select
 #. Choices
@@ -869,7 +869,7 @@ msgstr "Arizona"
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "East Indiana"
-msgstr "Este Indiana"
+msgstr "Indiana del este"
 
 #. Type: select
 #. Choices
