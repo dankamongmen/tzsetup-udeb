@@ -23,8 +23,8 @@ msgstr ""
 "Project-Id-Version: be\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2011-09-12 13:32+0300\n"
-"Last-Translator: Viktar Siarheichyk <vics@eq.by>\n"
+"PO-Revision-Date: 2012-03-04 17:29+0300\n"
+"Last-Translator: Viktar Siarheichyk <viсs@eq.by>\n"
 "Language-Team: Belarusian (Official spelling) <debian-l10n-belarusian@lists."
 "debian.org>\n"
 "Language: \n"
@@ -156,7 +156,7 @@ msgstr "Новы Паўднёвы Уэльс"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "Вікторыя"
 
 #. Type: select
 #. Choices
