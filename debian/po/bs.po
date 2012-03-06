@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: debian-installer_packages_po_sublevel1_bs\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2012-02-18 16:31+0100\n"
+"PO-Revision-Date: 2012-03-06 22:31+0100\n"
 "Last-Translator: Armin Besirovic <armin@linux.org.ba>\n"
 "Language-Team: Bosnian <lokal@linux.org.ba>\n"
 "Language: bs\n"
@@ -160,9 +160,8 @@ msgstr "Novi Južni Wales"
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Victoria"
-msgstr "Virginia"
+msgstr "Viktorija"
 
 #. Type: select
 #. Choices
