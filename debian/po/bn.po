@@ -17,14 +17,22 @@
 # Md. Rezwan Shahid <rezwan@ankur.org.bd>, 2009.
 # Sadia Afroz <sadia@ankur.org.bd>, 2010.
 # Israt Jahan <israt@ankur.org.bd>, 2010.
+# Zenat Rahnuma <zenat@ankur.org.bd>, 2011.
 #
+# Translations from iso-codes:
+#   Debian Foundation, 2005.
+#   Progga <progga@BengaLinux.Org>, 2005.
+#   Jamil Ahmed <jamil@bengalinux.org>, 2006.
+#   Md. Rezwan Shahid <rezwan@ankur.org.bd>, 2009.
+#   Israt Jahan <israt@ankur.org.bd>, 2010.
+#   Ayesha Akhtar <ayesha@ankur.org.bd>, 2012. 
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2011-05-09 13:28+0600\n"
-"Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
+"PO-Revision-Date: 2012-03-11 11:32+0600\n"
+"Last-Translator: Ayesha Akhtar <ayesha@ankur.org.bd>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -156,7 +164,7 @@ msgstr "নিউ সাউথ ওয়েলস"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "ভিক্টোরিয়া"
 
 #. Type: select
 #. Choices
