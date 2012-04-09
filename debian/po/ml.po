@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: Debian Installer Level 1\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2012-03-07 16:18+0530\n"
+"PO-Revision-Date: 2012-03-16 19:33+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Debian Malayalam <debian-l10n-malayalam@lists.debian.org>\n"
 "Language: \n"
@@ -632,7 +632,7 @@ msgstr "മദ്ധ്യം (സുലാവേസി, ബാലി, നുസ
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr "കിഴക്കന്‍ (പാപുവ ന്യൂ ഗിനിയ"
+msgstr "കിഴക്കന്‍ (പാപുവ ന്യൂ ഗിനിയ)"
 
 #. Type: select
 #. Choices

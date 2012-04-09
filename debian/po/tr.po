@@ -33,7 +33,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-02-23 22:48+0000\n"
-"PO-Revision-Date: 2012-02-29 17:29+0200\n"
+"PO-Revision-Date: 2012-04-07 14:34+0200\n"
 "Last-Translator: Mert Dirik <mertdirik@gmail.com>\n"
 "Language-Team: Debian L10n Turkish <debian-l10n-turkish@lists.debian.org>\n"
 "Language: \n"
@@ -624,7 +624,7 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr "Batı (Sumatra, Jakarta, Java, Batı ve Merkez  Kalimantan"
+msgstr "Batı (Sumatra, Jakarta, Java, Batı ve Merkez Kalimantan)"
 
 #. Type: select
 #. Choices
