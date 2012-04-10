@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pa\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
-"POT-Creation-Date: 2012-02-23 22:48+0000\n"
+"POT-Creation-Date: 2012-04-09 17:03+0000\n"
 "PO-Revision-Date: 2010-09-01 06:58+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi/Panjabi <punjabi-users@lists.sf.net>\n"
@@ -33,6 +33,7 @@ msgstr ""
 
 #. Type: select
 #. Description
+#. :sl3:
 #: ../common.templates:1001
 msgid ""
 "If the desired time zone is not listed, then please go back to the step "
@@ -44,30 +45,35 @@ msgstr ""
 
 #. Type: text
 #. Description
+#. :sl3:
 #: ../common.templates:2001
 msgid "Coordinated Universal Time (UTC)"
 msgstr "ਕੋਆਰਡੀਨੇਟ ਯੂਨੀਵਰਸਲ ਸਮਾਂ (UTC)"
 
 #. Type: text
 #. Description
+#. :sl3:
 #: ../common.templates:3001
 msgid "Select your time zone:"
 msgstr "ਆਪਣਾ ਟਾਈਮ-ਜ਼ੋਨ ਚੁਣੋ:"
 
 #. Type: text
 #. Description
+#. :sl3:
 #: ../common.templates:4001
 msgid "Select a location in your time zone:"
 msgstr "ਆਪਣੇ ਸਮਾਂ ਖੇਤਰ ਵਿੱਚੋਂ ਇੱਕ ਟਿਕਾਣਾ ਚੁਣੋ:"
 
 #. Type: text
 #. Description
+#. :sl3:
 #: ../common.templates:5001
 msgid "Select a city in your time zone:"
 msgstr "ਆਪਣੇ ਟਾਈਮ-ਜ਼ੋਨ ਵਿੱਚ ਇੱਕ ਸ਼ਹਿਰ ਚੁਣੋ:"
 
 #. Type: text
 #. Description
+#. :sl3:
 #: ../common.templates:6001
 #, fuzzy
 msgid "Select the state or province to set your time zone:"
@@ -75,6 +81,7 @@ msgstr "ਆਪਣੇ ਸਮਾਂ ਖੇਤਰ ਵਿੱਚੋਂ ਇੱਕ ਟ�
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "McMurdo"
@@ -82,6 +89,7 @@ msgstr "ਮੈਕਮੁਰਡੋ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Rothera"
@@ -89,6 +97,7 @@ msgstr "ਰੋਥੀਰਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Palmer"
@@ -96,6 +105,7 @@ msgstr "ਪਾਲਮੀਰ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Mawson"
@@ -103,6 +113,7 @@ msgstr "ਮਾਵਸਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Davis"
@@ -110,6 +121,7 @@ msgstr "ਡਿਵਿਸ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Casey"
@@ -117,6 +129,7 @@ msgstr "ਕਾਸੇਯ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Vostok"
@@ -124,6 +137,7 @@ msgstr "ਵੋਸਟੋਕ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Dumont-d'Urville"
@@ -131,6 +145,7 @@ msgstr "ਡੁਮਾਉਟ-ਡ-ਯਰਵਿਲੀ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Syowa"
@@ -138,6 +153,7 @@ msgstr "ਸਯੋਵਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
@@ -145,6 +161,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
@@ -152,6 +169,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
@@ -159,6 +177,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Northern Territory"
@@ -166,6 +185,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Queensland"
@@ -173,6 +193,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 #, fuzzy
@@ -181,6 +202,7 @@ msgstr "ਦੱਖਣੀ ਅਮਰੀਕਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 #, fuzzy
@@ -189,6 +211,7 @@ msgstr "ਰੋਮਾਨੀਅਨ "
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Western Australia"
@@ -196,6 +219,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
@@ -203,6 +227,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 #, fuzzy
@@ -211,6 +236,7 @@ msgstr "ਯਾਂਕਾਵੀਨਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Lord Howe Island"
@@ -218,6 +244,7 @@ msgstr "ਲਾਰਡ ਹੋਵੇ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 #, fuzzy
@@ -226,6 +253,7 @@ msgstr "ਅਜ਼ੋਰਸ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 #, fuzzy
@@ -234,6 +262,7 @@ msgstr "ਗਾਲਾਪੈਗੋਸ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 #, fuzzy
@@ -242,6 +271,7 @@ msgstr "ਏਰੀਜ਼ੋਨਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Amapá"
@@ -249,6 +279,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Bahia"
@@ -256,6 +287,7 @@ msgstr "ਬਾਹੀਆ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Ceará"
@@ -263,6 +295,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Distrito Federal"
@@ -270,6 +303,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Espírito Santo"
@@ -277,6 +311,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Fernando de Noronha"
@@ -284,6 +319,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Goiás"
@@ -291,6 +327,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Maranhão"
@@ -298,6 +335,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Minas Gerais"
@@ -305,6 +343,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso do Sul"
@@ -312,6 +351,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
@@ -319,6 +359,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pará"
@@ -326,6 +367,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraíba"
@@ -333,6 +375,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
@@ -340,6 +383,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Piauí"
@@ -347,6 +391,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraná"
@@ -354,6 +399,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio de Janeiro"
@@ -361,6 +407,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Norte"
@@ -368,6 +415,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rondônia"
@@ -375,6 +423,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 #, fuzzy
@@ -383,6 +432,7 @@ msgstr "ਰੋਮਾਨੀਅਨ "
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
@@ -390,6 +440,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Santa Catarina"
@@ -397,6 +448,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Sergipe"
@@ -404,6 +456,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 #, fuzzy
@@ -412,6 +465,7 @@ msgstr "ਸਾਓ_ਪਾਉਲੋ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Tocantins"
@@ -419,6 +473,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "Newfoundland"
@@ -426,6 +481,7 @@ msgstr "ਨਿਊਫਾਊਂਡਲੈਂਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "Atlantic"
@@ -433,9 +489,11 @@ msgstr "ਐਟਲਾਂਟਿਕ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:11001 ../common.templates:28001
 msgid "Eastern"
@@ -443,12 +501,15 @@ msgstr "ਪੂਰਬੀ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mexico
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
@@ -457,6 +518,7 @@ msgstr "ਸੈਂਟਰਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "East Saskatchewan"
@@ -464,6 +526,7 @@ msgstr "ਪੂਰਬੀ ਸਸਕਾਤਚੇਵਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "Saskatchewan"
@@ -471,12 +534,15 @@ msgstr "ਸਸਕਾਤਚੇਵਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mexico
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
@@ -485,12 +551,15 @@ msgstr "ਮਾਊਂਟੇਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Canada
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mexico
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
@@ -499,6 +568,7 @@ msgstr "ਪਰਸ਼ਾਂਤ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Congo, The Democratic Republic of the
 #: ../common.templates:12001
 msgid "Kinshasa"
@@ -506,6 +576,7 @@ msgstr "ਕਿਨਸ਼ਾਸਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Congo, The Democratic Republic of the
 #: ../common.templates:12001
 msgid "Lubumbashi"
@@ -513,6 +584,7 @@ msgstr "ਲੁਬੂਮਬਾਸ਼ੀ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Chile
 #: ../common.templates:13001
 msgid "Santiago"
@@ -520,6 +592,7 @@ msgstr "ਸੈਟੀਆਗੋ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Chile
 #: ../common.templates:13001
 msgid "Easter Island"
@@ -527,6 +600,7 @@ msgstr "ਪੂਰਬੀ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Ecuador
 #: ../common.templates:14001
 msgid "Guayaquil"
@@ -534,6 +608,7 @@ msgstr "ਗੂਆਕੁਇਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Ecuador
 #: ../common.templates:14001
 msgid "Galapagos"
@@ -541,6 +616,7 @@ msgstr "ਗਾਲਾਪੈਗੋਸ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Spain
 #: ../common.templates:15001
 msgid "Madrid"
@@ -548,6 +624,7 @@ msgstr "ਮੈਡਰਿਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Spain
 #: ../common.templates:15001
 msgid "Ceuta"
@@ -555,6 +632,7 @@ msgstr "ਸੀਊਟਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Spain
 #: ../common.templates:15001
 msgid "Canary Islands"
@@ -562,6 +640,7 @@ msgstr "ਕੈਨਰੀ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
 msgid "Yap"
@@ -569,6 +648,7 @@ msgstr "ਯਾਪ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
 msgid "Truk"
@@ -576,6 +656,7 @@ msgstr "ਟਰੁਕ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
 #, fuzzy
@@ -584,6 +665,7 @@ msgstr "ਪੋਨੇਪ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
 msgid "Kosrae"
@@ -591,6 +673,7 @@ msgstr "ਕੋਸਰਾਈ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Godthab"
@@ -598,6 +681,7 @@ msgstr "ਗੋਡਥਾਬ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Danmarkshavn"
@@ -605,6 +689,7 @@ msgstr "ਡੈਨਮਾਰਕਸ਼ਾਵਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Scoresbysund"
@@ -612,6 +697,7 @@ msgstr "ਸਕੋਰਸਬਾਈਸੰਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Thule"
@@ -619,6 +705,7 @@ msgstr "ਥੂਲੇ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
@@ -626,6 +713,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
@@ -633,6 +721,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
@@ -640,6 +729,7 @@ msgstr ""
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Tarawa (Gilbert Islands)"
@@ -647,6 +737,7 @@ msgstr "ਟਰਾਵਾ (ਗਿਲਬਿਰਟ ਟਾਪੂ)"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Enderbury (Phoenix Islands)"
@@ -654,6 +745,7 @@ msgstr "ਐਂਡਰਬਯੂਰੀ (ਫੋਨਿਕਸ ਟਾਪੂ)"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Kiritimati (Line Islands)"
@@ -661,6 +753,7 @@ msgstr "ਕਿਰਟੀਮਟੀ (ਲਾਈਨ ਟਾਪੂ)"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Almaty"
@@ -668,6 +761,7 @@ msgstr "ਅਲਮੇਟੀ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Qyzylorda"
@@ -675,6 +769,7 @@ msgstr "ਕੁਈਜ਼ੀਲੋਰਡਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Aqtobe"
@@ -682,6 +777,7 @@ msgstr "ਅਕਟੋਬੇ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Atyrau"
@@ -689,6 +785,7 @@ msgstr "ਅਕਟਾਓ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Oral"
@@ -696,6 +793,7 @@ msgstr "ਓਰਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Ulaanbaatar"
@@ -703,6 +801,7 @@ msgstr "ਊਲਾਨਬਾਟਾਰ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Hovd"
@@ -710,6 +809,7 @@ msgstr "ਹਾਵਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Choibalsan"
@@ -717,6 +817,7 @@ msgstr "ਚੁਇਬਾਲਸਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for New Zealand
 #: ../common.templates:23001
 msgid "Auckland"
@@ -724,6 +825,7 @@ msgstr "ਆਕਲੈਂਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for New Zealand
 #: ../common.templates:23001
 msgid "Chatham Islands"
@@ -731,6 +833,7 @@ msgstr "ਚਾਥਾਮ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Tahiti (Society Islands)"
@@ -738,6 +841,7 @@ msgstr "ਟਹੀਟੀ (ਸੁਸਾਇਟੀ ਟਾਪੂ)"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Marquesas Islands"
@@ -745,6 +849,7 @@ msgstr "ਮਾਰਕੁਈਸਾਸ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Gambier Islands"
@@ -752,6 +857,7 @@ msgstr "ਗੈਂਬੀਅਰ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Portugal
 #: ../common.templates:25001
 msgid "Lisbon"
@@ -759,6 +865,7 @@ msgstr "ਲਿਸਬੋਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Portugal
 #: ../common.templates:25001
 msgid "Madeira Islands"
@@ -766,6 +873,7 @@ msgstr "ਮਾਡੀਰਾ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Portugal
 #: ../common.templates:25001
 msgid "Azores"
@@ -773,6 +881,7 @@ msgstr "ਅਜ਼ੋਰਸ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow-01 - Kaliningrad"
@@ -780,6 +889,7 @@ msgstr "ਮਾਸਕੋ-01 - ਕਲਿਨਿੰਗਗਰਾਡ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -788,6 +898,7 @@ msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -796,6 +907,7 @@ msgstr "ਮਾਸਕੋ+10 - ਬੀਰਿੰਗ ਸਮੁੰਦਰ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -804,6 +916,7 @@ msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -812,6 +925,7 @@ msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -820,6 +934,7 @@ msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -828,6 +943,7 @@ msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 #, fuzzy
@@ -836,6 +952,7 @@ msgstr "ਮਾਸਕੋ+03 - ਨੋਵੋਸੀਬੀਰਸਕ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow+08 - Magadan"
@@ -843,6 +960,7 @@ msgstr "ਮਾਸਕੋ+08 - ਮਾਗਾਡਾਨ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Johnston Atoll"
@@ -850,6 +968,7 @@ msgstr "ਜੌਹਨਸਟੋਨ ਅਟੋਲ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Midway Islands"
@@ -857,6 +976,7 @@ msgstr "ਮਿਡਵੇ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Wake Island"
@@ -864,6 +984,7 @@ msgstr "ਵੇਕੀ ਟਾਪੂ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Alaska"
@@ -871,6 +992,7 @@ msgstr "ਅਲਾਸਕਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Hawaii"
@@ -878,6 +1000,7 @@ msgstr "ਹਵਾਈ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Arizona"
@@ -885,6 +1008,7 @@ msgstr "ਏਰੀਜ਼ੋਨਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "East Indiana"
@@ -892,6 +1016,7 @@ msgstr "ਈਸਟ-ਇੰਡੀਆਨਾ"
 
 #. Type: select
 #. Choices
+#. :sl3:
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Samoa"
