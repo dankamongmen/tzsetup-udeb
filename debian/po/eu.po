@@ -176,9 +176,8 @@ msgstr "Hego Gales berria"
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Victoria"
-msgstr "Virginia"
+msgstr "Victoria"
 
 #. Type: select
 #. Choices
