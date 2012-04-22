@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-04-09 17:03+0000\n"
-"PO-Revision-Date: 2011-11-07 15:45+0530\n"
+"PO-Revision-Date: 2012-04-22 20:20+0530\n"
 "Last-Translator: sampada <sampadanakhare@gmail.com>\n"
 "Language-Team: Marathi, janabhaaratii, C-DAC, Mumbai, India "
 "<janabhaaratii@cdacmumbai.in>\n"
@@ -172,7 +172,7 @@ msgstr "न्यू साउथ वेल्स"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "व्हिक्टोरिया"
 
 #. Type: select
 #. Choices
