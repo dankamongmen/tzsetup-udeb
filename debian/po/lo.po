@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: lo\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-04-09 17:03+0000\n"
-"PO-Revision-Date: 2011-09-12 15:24+0700\n"
+"PO-Revision-Date: 2012-04-24 14:01+0700\n"
 "Last-Translator: Anousak Souphavanh <anousak@gmail.com>\n"
 "Language-Team: Lao <lo@li.org>\n"
 "Language: \n"
@@ -163,7 +163,7 @@ msgstr "ເເວວໄຕ້ໃໝ່"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "ວິກທໍເລຍ"
 
 #. Type: select
 #. Choices
