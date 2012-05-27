@@ -4,37 +4,39 @@
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
 # translation of lv.po to Latvian
-# Aigars Mahinovs <aigarius@debian.org>, 2006, 2008.
-# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
-# Peteris Krisjanis <pecisk@gmail.com>, 2008.
 # Latvian messages for debian-installer.
 # Copyright (C) 2003 Software in the Public Interest, Inc.
 # This file is distributed under the same license as debian-installer.
 #
 # Translations from iso-codes:
+# Copyright (C) Free Software Foundation, Inc., 2001,2003.
+# Translations from KDE:
+# Andris Maziks <andzha@latnet.lv>
+#
+# Aigars Mahinovs <aigarius@debian.org>, 2006, 2008.
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
 # Aigars Mahinovs <aigarius@debian.org>, 2006.
 # Alastair McKinstry <mckinstry@computer.org>, 2001, 2002.
-# Copyright (C) Free Software Foundation, Inc., 2001,2003.
-# Free Software Foundation, Inc., 2002,2004
+# Free Software Foundation, Inc., 2002,2004.
 # Juris Kudiņš <cooker@inbox.lv>, 2001.
 # Rihards Priedītis <rprieditis@gmail.com>, 2009, 2010.
-# Translations from KDE:
-# Andris Maziks <andzha@latnet.lv> 
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2012.
+# Peteris Krisjanis <pecisk@gmail.com>, 2008, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: lv\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-04-09 17:03+0000\n"
-"PO-Revision-Date: 2010-11-17 00:02+0200\n"
-"Last-Translator: Aigars Mahinovs <aigarius@debian.org>\n"
-"Language-Team: Latvian <locale@laka.lv>\n"
+"PO-Revision-Date: 2012-05-27 12:29+0300\n"
+"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latviešu <locale-l10n@googlegroups.com>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
+"2)\n"
 
 #. Type: select
 #. Description
@@ -45,16 +47,16 @@ msgid ""
 "\"Choose language\" and select a country that uses the desired time zone "
 "(the country where you live or are located)."
 msgstr ""
-"Ja vēlamā laika zona nav sarakstā, tad atgriezieties atpakaļ uz soli "
-"\"Izvēlieties valodu\" un izvēlaties valsti, kas izmanto šo laika zonu "
-"(valsti kurā jūs dzīvojat vai atrodaties)."
+"Ja vēlamās laika zonas nav sarakstā, tad atgriezieties uz soli \"Izvēlieties "
+"valodu\" un izvēlieties valsti, kas izmanto šo laika zonu (valsti, kurā jūs "
+"dzīvojat vai atrodaties)."
 
 #. Type: text
 #. Description
 #. :sl3:
 #: ../common.templates:2001
 msgid "Coordinated Universal Time (UTC)"
-msgstr "Saskaņotais universālais laiks (UTC)"
+msgstr "Universālais koordinētais laiks (UTC)"
 
 #. Type: text
 #. Description
@@ -75,15 +77,14 @@ msgstr "Izvēlieties atrašanās vietu savā laika joslā:"
 #. :sl3:
 #: ../common.templates:5001
 msgid "Select a city in your time zone:"
-msgstr "Izvēlieties kādu pilsētu savā laika joslā:"
+msgstr "Izvēlieties pilsētu savā laika joslā:"
 
 #. Type: text
 #. Description
 #. :sl3:
 #: ../common.templates:6001
-#, fuzzy
 msgid "Select the state or province to set your time zone:"
-msgstr "Izvēlieties atrašanās vietu savā laika joslā:"
+msgstr "Izvēlieties štatu vai provinci savā laika joslā:"
 
 #. Type: select
 #. Choices
@@ -91,7 +92,7 @@ msgstr "Izvēlieties atrašanās vietu savā laika joslā:"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "McMurdo"
-msgstr "McMurdo"
+msgstr "Makmerdo"
 
 #. Type: select
 #. Choices
@@ -107,7 +108,7 @@ msgstr "Rotera"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Palmer"
-msgstr "Palmera"
+msgstr "Pālmera"
 
 #. Type: select
 #. Choices
@@ -115,7 +116,7 @@ msgstr "Palmera"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Mawson"
-msgstr "Masona"
+msgstr "Mosona"
 
 #. Type: select
 #. Choices
@@ -131,7 +132,7 @@ msgstr "Deivisa"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Casey"
-msgstr "Čeisija"
+msgstr "Keisi"
 
 #. Type: select
 #. Choices
@@ -147,7 +148,7 @@ msgstr "Vostoka"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Dumont-d'Urville"
-msgstr "Dumont-d'Urvilla"
+msgstr "Dimondirvila"
 
 #. Type: select
 #. Choices
@@ -155,7 +156,7 @@ msgstr "Dumont-d'Urvilla"
 #. Time zone for Antarctica
 #: ../common.templates:8001
 msgid "Syowa"
-msgstr "Siova"
+msgstr "Šova"
 
 #. Type: select
 #. Choices
@@ -163,7 +164,7 @@ msgstr "Siova"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "Austrālijas galvaspilsētas teritorija"
 
 #. Type: select
 #. Choices
@@ -171,16 +172,15 @@ msgstr ""
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
-msgstr ""
+msgstr "Jaundienvidvelsa"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Victoria"
-msgstr "Virdžīnija"
+msgstr "Viktorija"
 
 #. Type: select
 #. Choices
@@ -188,7 +188,7 @@ msgstr "Virdžīnija"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Northern Territory"
-msgstr ""
+msgstr "Ziemeļu teritorija"
 
 #. Type: select
 #. Choices
@@ -196,25 +196,23 @@ msgstr ""
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Queensland"
-msgstr ""
+msgstr "Kvīnslenda"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "South Australia"
-msgstr "Dienvidamerika"
+msgstr "Dienvidaustrālija"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Tasmania"
-msgstr "Rumāņu"
+msgstr "Tasmānija"
 
 #. Type: select
 #. Choices
@@ -222,7 +220,7 @@ msgstr "Rumāņu"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Western Australia"
-msgstr ""
+msgstr "Rietumaustrālija"
 
 #. Type: select
 #. Choices
@@ -230,14 +228,13 @@ msgstr ""
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "Eira lielceļš"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
 msgstr "Jankovinna"
 
@@ -247,34 +244,31 @@ msgstr "Jankovinna"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Lord Howe Island"
-msgstr "Lorda Hove Sala"
+msgstr "Lorda Hava sala"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Acre"
-msgstr "Azoru salas"
+msgstr "Akri"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Alagoas"
-msgstr "Galapagu salas"
+msgstr "Alagoasa"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Amazonas"
-msgstr "Arizona"
+msgstr "Amazonasa"
 
 #. Type: select
 #. Choices
@@ -282,7 +276,7 @@ msgstr "Arizona"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Amapá"
-msgstr ""
+msgstr "Amapa"
 
 #. Type: select
 #. Choices
@@ -290,7 +284,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Bahia"
-msgstr "Bahia"
+msgstr "Baija"
 
 #. Type: select
 #. Choices
@@ -298,7 +292,7 @@ msgstr "Bahia"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Ceará"
-msgstr ""
+msgstr "Seara"
 
 #. Type: select
 #. Choices
@@ -306,7 +300,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Distrito Federal"
-msgstr ""
+msgstr "Federālais distrikts"
 
 #. Type: select
 #. Choices
@@ -314,7 +308,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Espírito Santo"
-msgstr ""
+msgstr "Espiritu Santu"
 
 #. Type: select
 #. Choices
@@ -322,7 +316,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Fernando de Noronha"
-msgstr ""
+msgstr "Fernandu di Noroņa"
 
 #. Type: select
 #. Choices
@@ -330,7 +324,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Goiás"
-msgstr ""
+msgstr "Gojasa"
 
 #. Type: select
 #. Choices
@@ -338,7 +332,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Maranhão"
-msgstr ""
+msgstr "Maraņauna"
 
 #. Type: select
 #. Choices
@@ -346,7 +340,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Minas Gerais"
-msgstr ""
+msgstr "Minasžeraisa"
 
 #. Type: select
 #. Choices
@@ -354,7 +348,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso do Sul"
-msgstr ""
+msgstr "Matugrosu du Sula"
 
 #. Type: select
 #. Choices
@@ -362,7 +356,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
-msgstr ""
+msgstr "Matugrosu"
 
 #. Type: select
 #. Choices
@@ -370,7 +364,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pará"
-msgstr ""
+msgstr "Para"
 
 #. Type: select
 #. Choices
@@ -378,7 +372,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraíba"
-msgstr ""
+msgstr "Paraiba"
 
 #. Type: select
 #. Choices
@@ -386,7 +380,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuku"
 
 #. Type: select
 #. Choices
@@ -394,7 +388,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Piauí"
-msgstr ""
+msgstr "Pjaui"
 
 #. Type: select
 #. Choices
@@ -402,7 +396,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraná"
-msgstr ""
+msgstr "Parana"
 
 #. Type: select
 #. Choices
@@ -410,7 +404,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio de Janeiro"
-msgstr ""
+msgstr "Riodežaneiro"
 
 #. Type: select
 #. Choices
@@ -418,7 +412,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Norte"
-msgstr ""
+msgstr "Riugrandi du Norti"
 
 #. Type: select
 #. Choices
@@ -426,16 +420,15 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rondônia"
-msgstr ""
+msgstr "Rondonija"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "Roraima"
-msgstr "Rumāņu"
+msgstr "Roraima"
 
 #. Type: select
 #. Choices
@@ -443,7 +436,7 @@ msgstr "Rumāņu"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
-msgstr ""
+msgstr "Riugrandi du Sula"
 
 #. Type: select
 #. Choices
@@ -451,7 +444,7 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Santa Catarina"
-msgstr ""
+msgstr "Santakatarina"
 
 #. Type: select
 #. Choices
@@ -459,16 +452,15 @@ msgstr ""
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Sergipe"
-msgstr ""
+msgstr "Seržipi"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Brazil
 #: ../common.templates:10001
-#, fuzzy
 msgid "São Paulo"
-msgstr "Sao Paulo"
+msgstr "Sanpaulu"
 
 #. Type: select
 #. Choices
@@ -476,7 +468,7 @@ msgstr "Sao Paulo"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Tocantins"
-msgstr ""
+msgstr "Tokantinsa"
 
 #. Type: select
 #. Choices
@@ -492,7 +484,7 @@ msgstr "Ņūfaundlenda"
 #. Time zone for Canada
 #: ../common.templates:11001
 msgid "Atlantic"
-msgstr "Atlantijas okeāns"
+msgstr "Atlantijas okeāna"
 
 #. Type: select
 #. Choices
@@ -521,7 +513,7 @@ msgstr "Austrumu"
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
 msgid "Central"
-msgstr "Centrālā"
+msgstr "Centrālais"
 
 #. Type: select
 #. Choices
@@ -554,7 +546,7 @@ msgstr "Saskačevana"
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
 msgid "Mountain"
-msgstr "Mountain"
+msgstr "Kalnu"
 
 #. Type: select
 #. Choices
@@ -571,7 +563,7 @@ msgstr "Mountain"
 #: ../common.templates:11001 ../common.templates:22001
 #: ../common.templates:28001
 msgid "Pacific"
-msgstr "Klusais okeāns"
+msgstr "Klusā okeāna"
 
 #. Type: select
 #. Choices
@@ -595,7 +587,7 @@ msgstr "Lubumbaši"
 #. Time zone for Chile
 #: ../common.templates:13001
 msgid "Santiago"
-msgstr "Santiago"
+msgstr "Santjago"
 
 #. Type: select
 #. Choices
@@ -611,7 +603,7 @@ msgstr "Lieldienu salas"
 #. Time zone for Ecuador
 #: ../common.templates:14001
 msgid "Guayaquil"
-msgstr "Guaijakuila"
+msgstr "Gvajakila"
 
 #. Type: select
 #. Choices
@@ -635,7 +627,7 @@ msgstr "Madride"
 #. Time zone for Spain
 #: ../common.templates:15001
 msgid "Ceuta"
-msgstr "Ceuta"
+msgstr "Seuta"
 
 #. Type: select
 #. Choices
@@ -666,9 +658,8 @@ msgstr "Truka"
 #. :sl3:
 #. Time zone for Micronesia, Federated States of
 #: ../common.templates:16001
-#, fuzzy
 msgid "Pohnpei"
-msgstr "Ponape"
+msgstr "Ponpeja"
 
 #. Type: select
 #. Choices
@@ -684,7 +675,7 @@ msgstr "Kosrae"
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Godthab"
-msgstr "Godtaba"
+msgstr "Nūka"
 
 #. Type: select
 #. Choices
@@ -692,7 +683,7 @@ msgstr "Godtaba"
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Danmarkshavn"
-msgstr "Danmarkšavna"
+msgstr "Danmarkshavna"
 
 #. Type: select
 #. Choices
@@ -700,7 +691,7 @@ msgstr "Danmarkšavna"
 #. Time zone for Greenland
 #: ../common.templates:17001
 msgid "Scoresbysund"
-msgstr "Scoresbisunda"
+msgstr "Kanertitivaks"
 
 #. Type: select
 #. Choices
@@ -716,7 +707,7 @@ msgstr "Tule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Rietumu (Sumatra, Džakarta, Džava, Rietumu un Centrālā Kalimantāna)"
 
 #. Type: select
 #. Choices
@@ -724,7 +715,7 @@ msgstr ""
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
-msgstr ""
+msgstr "Centrālā (Sulavesi, Bali, Nusa Tengara,Austrumu un Deinvidkalimantāna)"
 
 #. Type: select
 #. Choices
@@ -732,7 +723,7 @@ msgstr ""
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Austrumu (Moluku, Papua)"
 
 #. Type: select
 #. Choices
@@ -740,7 +731,7 @@ msgstr ""
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Tarawa (Gilbert Islands)"
-msgstr "Tarava (Kiribati)"
+msgstr "Tarava (Kiribati salas)"
 
 #. Type: select
 #. Choices
@@ -748,7 +739,7 @@ msgstr "Tarava (Kiribati)"
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Enderbury (Phoenix Islands)"
-msgstr "Enderburija (Fēniksa salas)"
+msgstr "Enderberija (Fēniksa salas)"
 
 #. Type: select
 #. Choices
@@ -756,7 +747,7 @@ msgstr "Enderburija (Fēniksa salas)"
 #. Time zone for Kiribati
 #: ../common.templates:19001
 msgid "Kiritimati (Line Islands)"
-msgstr "Kiritimati (Līniju salas)"
+msgstr "Kirisimasi (Lainas salas)"
 
 #. Type: select
 #. Choices
@@ -764,7 +755,7 @@ msgstr "Kiritimati (Līniju salas)"
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Almaty"
-msgstr "Alma-ata"
+msgstr "Almati"
 
 #. Type: select
 #. Choices
@@ -772,7 +763,7 @@ msgstr "Alma-ata"
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Qyzylorda"
-msgstr "Kvizilorda"
+msgstr "Kizilorda"
 
 #. Type: select
 #. Choices
@@ -780,7 +771,7 @@ msgstr "Kvizilorda"
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Aqtobe"
-msgstr "Akvtobe"
+msgstr "Aktebe"
 
 #. Type: select
 #. Choices
@@ -788,7 +779,7 @@ msgstr "Akvtobe"
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Atyrau"
-msgstr "Akvtau"
+msgstr "Atirau"
 
 #. Type: select
 #. Choices
@@ -796,7 +787,7 @@ msgstr "Akvtau"
 #. Time zone for Kazakhstan
 #: ../common.templates:20001
 msgid "Oral"
-msgstr "Oral"
+msgstr "Orala"
 
 #. Type: select
 #. Choices
@@ -804,7 +795,7 @@ msgstr "Oral"
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Ulaanbaatar"
-msgstr "Ulanbatar"
+msgstr "Ulanbatora"
 
 #. Type: select
 #. Choices
@@ -812,7 +803,7 @@ msgstr "Ulanbatar"
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Hovd"
-msgstr "Hovd"
+msgstr "Hovda"
 
 #. Type: select
 #. Choices
@@ -820,7 +811,7 @@ msgstr "Hovd"
 #. Time zone for Mongolia
 #: ../common.templates:21001
 msgid "Choibalsan"
-msgstr "Choibalsan"
+msgstr "Čoibalsana"
 
 #. Type: select
 #. Choices
@@ -828,7 +819,7 @@ msgstr "Choibalsan"
 #. Time zone for New Zealand
 #: ../common.templates:23001
 msgid "Auckland"
-msgstr "Auklenda"
+msgstr "Oklenda"
 
 #. Type: select
 #. Choices
@@ -836,7 +827,7 @@ msgstr "Auklenda"
 #. Time zone for New Zealand
 #: ../common.templates:23001
 msgid "Chatham Islands"
-msgstr "Čathamas salas"
+msgstr "Četmena salas"
 
 #. Type: select
 #. Choices
@@ -844,7 +835,7 @@ msgstr "Čathamas salas"
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Tahiti (Society Islands)"
-msgstr "Taiti"
+msgstr "Taiti (Biedrības salas)"
 
 #. Type: select
 #. Choices
@@ -852,7 +843,7 @@ msgstr "Taiti"
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Marquesas Islands"
-msgstr "Markesas sala"
+msgstr "Markīza salas"
 
 #. Type: select
 #. Choices
@@ -860,7 +851,7 @@ msgstr "Markesas sala"
 #. Time zone for French Polynesia
 #: ../common.templates:24001
 msgid "Gambier Islands"
-msgstr "Gambiera"
+msgstr "Gambjē salas"
 
 #. Type: select
 #. Choices
@@ -899,63 +890,56 @@ msgstr "Maskava-01 - Kaļiņingrada"
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+00 - Moscow"
-msgstr "Maskava+02 - Urāli"
+msgstr "Maskava+00 - Maskava"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+02 - Yekaterinburg"
-msgstr "Maskava+10 - Beringa jūra"
+msgstr "Maskava+02 - Jekaterinburga"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+03 - Omsk"
-msgstr "Maskava+02 - Urāli"
+msgstr "Maskava+03 - Omska"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+04 - Krasnoyarsk"
-msgstr "Maskava+02 - Urāli"
+msgstr "Maskava+04 - Krasnojarska"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+05 - Irkutsk"
-msgstr "Maskava+02 - Urāli"
+msgstr "Maskava+05 - Irkutska"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+06 - Yakutsk"
-msgstr "Maskava+02 - Urāli"
+msgstr "Maskava+06 - Jakutska"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+07 - Vladivostok"
-msgstr "Maskava+03 - Novosibirska"
+msgstr "Maskava+07 - Vladivostoka"
 
 #. Type: select
 #. Choices
@@ -971,7 +955,7 @@ msgstr "Maskava+08 - Magadana"
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Johnston Atoll"
-msgstr "Džonstona"
+msgstr "Džonstona atols"
 
 #. Type: select
 #. Choices
@@ -979,7 +963,7 @@ msgstr "Džonstona"
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Midway Islands"
-msgstr "Midveja salas"
+msgstr "Midveja atols"
 
 #. Type: select
 #. Choices
@@ -987,7 +971,7 @@ msgstr "Midveja salas"
 #. Time zone for United States Minor Outlying Islands
 #: ../common.templates:27001
 msgid "Wake Island"
-msgstr "Wake sala"
+msgstr "Veika salas"
 
 #. Type: select
 #. Choices
@@ -1003,7 +987,7 @@ msgstr "Aļaska"
 #. Time zone for United States
 #: ../common.templates:28001
 msgid "Hawaii"
-msgstr "Havaju salas"
+msgstr "Havajas"
 
 #. Type: select
 #. Choices
