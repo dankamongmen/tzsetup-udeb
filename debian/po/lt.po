@@ -9,33 +9,31 @@
 # Marius Gedminas <mgedmin@b4net.lt>, 2004.
 # Darius Skilinskas <darius10@takas.lt>, 2005.
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004...2010.
-#
-#
 # Translations from iso-codes:
-#   Gintautas Miliauskas <gintas@akl.lt>, 2008.
-#   Tobias Quathamer <toddy@debian.org>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
-#
-#   Translations from KDE:
-#   - Ričardas Čepas <rch@richard.eu.org>
-#
-#   Free Software Foundation, Inc., 2000-2001, 2004
-#   Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
-#   Alastair McKinstry <mckinstry@computer.org>, 2001,2002.
-#   Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2006, 2008, 2009, 2010.
-#
+# Gintautas Miliauskas <gintas@akl.lt>, 2008.
+# Tobias Quathamer <toddy@debian.org>, 2007.
+# Translations taken from ICU SVN on 2007-09-09
+# Translations from KDE:
+# - Ričardas Čepas <rch@richard.eu.org>
+# Free Software Foundation, Inc., 2000-2001, 2004
+# Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001,2002.
+# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2006, 2008, 2009, 2010.
+# Rimas Kudelis <rq@akl.lt>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-04-09 17:03+0000\n"
-"PO-Revision-Date: 2010-09-07 09:04+0300\n"
-"Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
+"PO-Revision-Date: 2012-05-27 19:07+0300\n"
+"Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Type: select
 #. Description
@@ -46,8 +44,8 @@ msgid ""
 "\"Choose language\" and select a country that uses the desired time zone "
 "(the country where you live or are located)."
 msgstr ""
-"Jei norima laiko zona nenurodyta, grįžkite į diegimo žingsnį  „Pasirinkite "
-"kalbą“ ir pasirinkite šalį, kurioje naudojama norima šį laiko zona (šalį, "
+"Jei norima laiko zona nenurodyta, grįžkite į diegimo žingsnį „Pasirinkite "
+"kalbą“ ir pasirinkite šalį, kurioje naudojama norima laiko zona (šalį, "
 "kurioje gyvenate arba šiuo metu esate)."
 
 #. Type: text
@@ -55,7 +53,7 @@ msgstr ""
 #. :sl3:
 #: ../common.templates:2001
 msgid "Coordinated Universal Time (UTC)"
-msgstr "Pasaulinis koordinuotasis laikas (UTC)"
+msgstr "Suderintasis pasaulinis laikas (UTC)"
 
 #. Type: text
 #. Description
@@ -69,22 +67,21 @@ msgstr "Pasirinkite laiko zoną:"
 #. :sl3:
 #: ../common.templates:4001
 msgid "Select a location in your time zone:"
-msgstr "Pasirinkite vietovę Jūsų laiko zonai:"
+msgstr "Pasirinkite vietovę Jūsų laiko zonoje:"
 
 #. Type: text
 #. Description
 #. :sl3:
 #: ../common.templates:5001
 msgid "Select a city in your time zone:"
-msgstr "Pasirinkite miestą Jūsų laiko zonai:"
+msgstr "Pasirinkite miestą Jūsų laiko zonoje:"
 
 #. Type: text
 #. Description
 #. :sl3:
 #: ../common.templates:6001
-#, fuzzy
 msgid "Select the state or province to set your time zone:"
-msgstr "Pasirinkite vietovę Jūsų laiko zonai:"
+msgstr "Pasirinkite valstiją ar regioną laiko zonai nustatyti:"
 
 #. Type: select
 #. Choices
@@ -228,16 +225,15 @@ msgstr "Vakarų Australija"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "Eyre Highway"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Australia
 #: ../common.templates:9001
-#, fuzzy
 msgid "Yancowinna County"
-msgstr "Jankovina"
+msgstr "Jankovinos apygarda"
 
 #. Type: select
 #. Choices
@@ -317,7 +313,7 @@ msgstr "Espirito Santas"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Fernando de Noronha"
-msgstr ""
+msgstr "Fernando de Noronija"
 
 #. Type: select
 #. Choices
@@ -708,7 +704,7 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Vakarų (Sumatra, Džakarta, Java, Vakarų ir Centrinis Kalimantanas)"
 
 #. Type: select
 #. Choices
@@ -716,7 +712,7 @@ msgstr ""
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
-msgstr ""
+msgstr "Centrinė (Sulavesis, Balis, Nusa Tengara, Rytų ir Pietų Kalimantanas)"
 
 #. Type: select
 #. Choices
@@ -724,7 +720,7 @@ msgstr ""
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Rytų (Maluku, Papua)"
 
 #. Type: select
 #. Choices
@@ -884,70 +880,63 @@ msgstr "Azoro salos"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow-01 - Kaliningrad"
-msgstr "Maskva-01 - Kaliningradas"
+msgstr "Maskva-01 – Kaliningradas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+00 - Moscow"
-msgstr "Maskva+02 - Uralas"
+msgstr "Maskva+00 – Maskva"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+02 - Yekaterinburg"
-msgstr "Maskva+10 - Beringo jūra"
+msgstr "Maskva+02 – Jekaterinburgas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+03 - Omsk"
-msgstr "Maskva+02 - Uralas"
+msgstr "Maskva+03 – Omskas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+04 - Krasnoyarsk"
-msgstr "Maskva+02 - Uralas"
+msgstr "Maskva+04 – Krasnojarskas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+05 - Irkutsk"
-msgstr "Maskva+02 - Uralas"
+msgstr "Maskva+05 – Irkutskas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+06 - Yakutsk"
-msgstr "Maskva+02 - Uralas"
+msgstr "Maskva+06 – Jakutskas"
 
 #. Type: select
 #. Choices
 #. :sl3:
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+07 - Vladivostok"
-msgstr "Maskva+03 - Novosibirskas"
+msgstr "Maskva+07 – Vladivostokas"
 
 #. Type: select
 #. Choices
@@ -955,7 +944,7 @@ msgstr "Maskva+03 - Novosibirskas"
 #. Time zone for Russian Federation
 #: ../common.templates:26001
 msgid "Moscow+08 - Magadan"
-msgstr "Maskva+08 - Magadanas"
+msgstr "Maskva+08 – Magadanas"
 
 #. Type: select
 #. Choices
