@@ -190,10 +190,3 @@ Default: US/Eastern
 Choices-C: US/Eastern, US/Central, US/Mountain, US/Pacific, US/Alaska, US/Hawaii, US/Arizona, US/East-Indiana, US/Samoa
 __Choices: Eastern, Central, Mountain, Pacific, Alaska, Hawaii, Arizona, East Indiana, Samoa
 Description: zone
-
-Template: tzsetup/country/PS
-Type: select
-# :sl6:
-Choices-C: Asia/Gaza, Asia/Hebron
-__Choices: Gaza Strip, West Bank
-Description: location
