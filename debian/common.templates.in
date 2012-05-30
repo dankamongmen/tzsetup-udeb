@@ -193,7 +193,7 @@ Description: zone
 
 Template: tzsetup/country/PS
 Type: select
-# :sl3:
+# :sl6:
 Choices-C: Asia/Gaza, Asia/Hebron
 __Choices: Gaza Strip, West Bank
 Description: location
