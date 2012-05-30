@@ -1,4 +1,21 @@
+#
+#
+#
+#
+#
+#
+#
+#
 # This file was generated automatically, edit its source file instead
+#
+#
+#
+#
+#
+#
+#
+#
+#
 Template: time/zone
 Type: select
 Choices-C: ${CHOICES-C}
