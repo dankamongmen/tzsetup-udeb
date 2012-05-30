@@ -18,7 +18,9 @@ while (<ISO>) {
 	$country{$cc}=$country;
 }
 
+print ("#\n" x 10);
 print "# This file was generated automatically, edit its source file instead\n";
+print ("#\n" x 10);
 
 sub honking_big_comment {
 	my ($cc)=@_;
