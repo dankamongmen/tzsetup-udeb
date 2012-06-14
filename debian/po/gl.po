@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-05-30 22:48+0000\n"
-"PO-Revision-Date: 2012-06-01 00:57+0200\n"
+"PO-Revision-Date: 2012-06-14 01:31+0200\n"
 "Last-Translator: Jorge Barreiro <yortx.barry@gmail.com>\n"
 "Language-Team: Galician <proxecto@trasno.net>\n"
 "Language: gl\n"
@@ -75,9 +75,8 @@ msgstr "Escolla unha cidade no fuso horario:"
 #. Description
 #. :sl3:
 #: ../common.templates:6001
-#, fuzzy
 msgid "Select the state or province to set your time zone:"
-msgstr "Escolla un lugar no fuso horario:"
+msgstr "Escolla un estado ou provincia para estabelecer o fuso horario:"
 
 #. Type: select
 #. Choices
