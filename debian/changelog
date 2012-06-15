@@ -1,3 +1,16 @@
+tzsetup (1:0.37) unstable; urgency=low
+
+  * Team upload
+  * Replace XC-Package-Type by Package-Type
+
+  [ Updated translations ]
+  * Welsh (cy.po) by Dafydd Tomos
+  * Danish (da.po) by Joe Hansen
+  * Galician (gl.po) by Jorge Barreiro
+  * Tamil (ta.po) by Kumar Appaiah
+
+ -- Christian Perrier <bubulle@debian.org>  Fri, 15 Jun 2012 17:33:10 +0200
+
 tzsetup (1:0.36) unstable; urgency=low
 
   [ Christian Perrier ]
