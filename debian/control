@@ -11,5 +11,5 @@ Vcs-Git: git://git.debian.org/d-i/tzsetup.git
 Package: tzsetup-udeb
 Architecture: all
 Depends: ${misc:Depends}, localechooser
-XC-Package-Type: udeb
+Package-Type: udeb
 Description: choose time zone
