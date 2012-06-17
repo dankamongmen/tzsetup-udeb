@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: tzsetup@packages.debian.org\n"
 "POT-Creation-Date: 2012-05-30 22:48+0000\n"
-"PO-Revision-Date: 2012-02-17 05:04+0100\n"
+"PO-Revision-Date: 2012-06-17 22:22+0100\n"
 "Last-Translator: Tegegne Tefera <tefera.tegegne@gmail.com>\n"
 "Language-Team: Amharic\n"
 "Language: \n"
@@ -143,35 +143,35 @@ msgstr "Syowa"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "የአውስትራሊያ ዋና ከተማ ግዛ"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "New South Wales"
-msgstr ""
+msgstr "አዲስ ደቡብ ዌል"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Victoria"
-msgstr ""
+msgstr "ቪክቶሪያ"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Northern Territory"
-msgstr ""
+msgstr "ሰሜናዊ ግዛ"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Queensland"
-msgstr ""
+msgstr "ክዊንስላን"
 
 #. Type: select
 #. Choices
@@ -185,21 +185,21 @@ msgstr "ደቡብ አውስትራሊያ"
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Tasmania"
-msgstr ""
+msgstr "ታስማኒያ"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Western Australia"
-msgstr ""
+msgstr "ምዕራብ አውስትራሊያ"
 
 #. Type: select
 #. Choices
 #. Time zone for Australia
 #: ../common.templates:9001
 msgid "Eyre Highway"
-msgstr ""
+msgstr "አይሬ አውራጎዳና"
 
 #. Type: select
 #. Choices
@@ -241,7 +241,7 @@ msgstr "አማዞናስ"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Amapá"
-msgstr ""
+msgstr "ኣማፔ"
 
 #. Type: select
 #. Choices
@@ -255,119 +255,119 @@ msgstr "Bahia"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Ceará"
-msgstr ""
+msgstr "ቼራ"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Distrito Federal"
-msgstr ""
+msgstr "ዲስትሮ ፍፈደራ"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Espírito Santo"
-msgstr ""
+msgstr "Espírito Santo"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Fernando de Noronha"
-msgstr ""
+msgstr "Fernando de Noronha"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Goiás"
-msgstr ""
+msgstr "Goiás"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Maranhão"
-msgstr ""
+msgstr "Maranhão"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Minas Gerais"
-msgstr ""
+msgstr "Minas Gerais"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso do Sul"
-msgstr ""
+msgstr "Mato Grosso do Sul"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Mato Grosso"
-msgstr ""
+msgstr "Mato Grosso"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pará"
-msgstr ""
+msgstr "Pará"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraíba"
-msgstr ""
+msgstr "Paraíba"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuco"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Piauí"
-msgstr ""
+msgstr "Piauí"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Paraná"
-msgstr ""
+msgstr "Paraná"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio de Janeiro"
-msgstr ""
+msgstr "ሪዮ ዲ ጃኔሮ"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Norte"
-msgstr ""
+msgstr "Rio Grande do Norte"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rondônia"
-msgstr ""
+msgstr "Rondônia"
 
 #. Type: select
 #. Choices
@@ -381,21 +381,21 @@ msgstr "ሮራይማ"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Rio Grande do Sul"
-msgstr ""
+msgstr "Rio Grande do Sul"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Santa Catarina"
-msgstr ""
+msgstr "Santa Catarina"
 
 #. Type: select
 #. Choices
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Sergipe"
-msgstr ""
+msgstr "Sergipe"
 
 #. Type: select
 #. Choices
@@ -409,7 +409,7 @@ msgstr "ሳኦፓውሎ"
 #. Time zone for Brazil
 #: ../common.templates:10001
 msgid "Tocantins"
-msgstr ""
+msgstr "Tocantins"
 
 #. Type: select
 #. Choices
@@ -615,21 +615,21 @@ msgstr "Thule"
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
-msgstr ""
+msgstr "Western (Sumatra, Jakarta, Java, West and Central Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
-msgstr ""
+msgstr "Central (Sulawesi, Bali, Nusa Tenggara, East and South Kalimantan)"
 
 #. Type: select
 #. Choices
 #. Time zone for Indonesia
 #: ../common.templates:18001
 msgid "Eastern (Maluku, Papua)"
-msgstr ""
+msgstr "Eastern (Maluku, Papua)"
 
 #. Type: select
 #. Choices
@@ -796,33 +796,29 @@ msgstr "ሞስኮ+02 - ኦምስክ"
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+04 - Krasnoyarsk"
-msgstr "Moscow+02 - Urals"
+msgstr "Moscow+04 - Krasnoyarsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+05 - Irkutsk"
-msgstr "Moscow+02 - Urals"
+msgstr "Moscow+05 - Irkutsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+06 - Yakutsk"
-msgstr "Moscow+02 - Urals"
+msgstr "Moscow+06 - Yakutsk"
 
 #. Type: select
 #. Choices
 #. Time zone for Russian Federation
 #: ../common.templates:26001
-#, fuzzy
 msgid "Moscow+07 - Vladivostok"
-msgstr "Moscow+03 - Novosibirsk"
+msgstr "Moscow+07 - Vladivostok"
 
 #. Type: select
 #. Choices
