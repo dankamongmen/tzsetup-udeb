@@ -1,3 +1,12 @@
+tzsetup (1:0.40) unstable; urgency=low
+
+  * Team upload
+
+  [ Updated translations ]
+  * Croatian (hr.po) by Tomislav Krznar
+
+ -- Christian Perrier <bubulle@debian.org>  Thu, 21 Jun 2012 22:56:16 +0200
+
 tzsetup (1:0.39) unstable; urgency=low
 
   * Team upload
