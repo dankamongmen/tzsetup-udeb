@@ -10,6 +10,6 @@ Vcs-Git: git://git.debian.org/d-i/tzsetup.git
 
 Package: tzsetup-udeb
 Architecture: all
-Depends: ${misc:Depends}, localechooser
+Depends: ${misc:Depends}, localechooser, nethorologist-udeb
 Package-Type: udeb
 Description: choose time zone
